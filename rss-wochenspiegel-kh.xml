@@ -1,725 +1,128 @@
 <?xml version="1.0"?>
-<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" version="2.0">
-  <channel>
-    <title>BYC-News Online-Zeitung</title>
-    <atom:link href="https://byc-news.de/feed/" rel="self" type="application/rss+xml"/>
-    <link>https://byc-news.de/</link>
-    <description/>
-    <lastBuildDate>Fri, 23 Dec 2022 10:13:49 +0000</lastBuildDate>
-    <language>de-DE</language>
-    <sy:updatePeriod>
-	hourly	</sy:updatePeriod>
-    <sy:updateFrequency>
-	1	</sy:updateFrequency>
-    <generator>https://wordpress.org/?v=6.1.1</generator>
-    <image>
-      <url>https://byc-news.de/wp-content/uploads/2019/06/cropped-boost-your-city-32x32.png</url>
-      <title>BYC-News Online-Zeitung</title>
-      <link>https://byc-news.de/</link>
-      <width>32</width>
-      <height>32</height>
-    </image>
-    <item>
-      <title>Freier Eintritt für Kinder in Hallenbäder und Museen in Mainz</title>
-      <link>https://byc-news.de/mainz/freier-eintritt-fuer-kinder-in-hallenbaeder-und-museen-in-mainz/</link>
-      <comments>https://byc-news.de/mainz/freier-eintritt-fuer-kinder-in-hallenbaeder-und-museen-in-mainz/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Fri, 23 Dec 2022 10:13:49 +0000</pubDate>
-      <category>Mainz</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=113000</guid>
-      <description>&lt;p&gt;Auch in den Weihnachtsferien (23.12.22 &amp;#8211; 02.01.2023) k&amp;#xF6;nnen Mainzer Kinder und Jugendliche im Alter bis einschlie&amp;#xDF;lich 17 Jahre die beiden Mainzer Hallenb&amp;#xE4;der und die beiden st&amp;#xE4;dtischen Museen kostenlos besuchen. Die Kosten werden aus dem Hilfspaket &amp;#8222;Mainz hilft 2022 &amp;#8211; der Booster f&amp;#xFC;r unsere Stadt&amp;#8220; &amp;#xFC;bernommen. Ein vergleichbares Angebot gab es bereits in den vergangenen Oster-, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/mainz/freier-eintritt-fuer-kinder-in-hallenbaeder-und-museen-in-mainz/"&gt;Freier Eintritt für Kinder in Hallenbäder und Museen in Mainz&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/mainz/freier-eintritt-fuer-kinder-in-hallenbaeder-und-museen-in-mainz/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Einbrecher steigen in Einkaufsmarkt in Flomborn ein</title>
-      <link>https://byc-news.de/kurzmeldungen/einbrecher-steigen-in-einkaufsmarkt-in-flomborn-ein/</link>
-      <comments>https://byc-news.de/kurzmeldungen/einbrecher-steigen-in-einkaufsmarkt-in-flomborn-ein/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Fri, 23 Dec 2022 07:25:37 +0000</pubDate>
-      <category>Kurzmeldungen</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112993</guid>
-      <description>&lt;p&gt;Einbrecher sind in der Nacht von Donnerstag auf Freitag (23. Dezember 2022) gegen 3:20 Uhr in einen Einkaufsmarkt in Flomborn (Kreis Alzey-Worms) eingebrochen. Die T&amp;#xE4;ter durchbrachen die Schiebet&amp;#xFC;r am Eingang ein und verschafften sich so Zugang in die Ladenfl&amp;#xE4;che. Bei dem Einbruch wurde die Alarmanlage ausgel&amp;#xF6;st. Bei dem Stehlgut handelt es sich um Zigarettenp&amp;#xE4;ckchen, die [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/kurzmeldungen/einbrecher-steigen-in-einkaufsmarkt-in-flomborn-ein/"&gt;Einbrecher steigen in Einkaufsmarkt in Flomborn ein&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/kurzmeldungen/einbrecher-steigen-in-einkaufsmarkt-in-flomborn-ein/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Metallsplitter im Produkt: Lebensmittelrückruf von Almondy bei IKEA Deutschland</title>
-      <link>https://byc-news.de/lebensmittelwarnung/almondy-ruft-daim-produkt-zurueck-metallobjekt-in-einem-produkt-entdeckt/</link>
-      <comments>https://byc-news.de/lebensmittelwarnung/almondy-ruft-daim-produkt-zurueck-metallobjekt-in-einem-produkt-entdeckt/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Fri, 23 Dec 2022 06:54:02 +0000</pubDate>
-      <category>Lebensmittelwarnung</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112989</guid>
-      <description>&lt;p&gt;Almondy ruft eine begrenzte Menge der&amp;#xA0;Almondy DAIM Mandeltorte Schoko-Krokant, 400 g, zur&amp;#xFC;ck, da in einem Kuchen ein kleines Metallobjekt gefunden wurde. Der R&amp;#xFC;ckruf ist eine reine Vorsichtsma&amp;#xDF;nahme. Der R&amp;#xFC;ckruf betrifft ausschlie&amp;#xDF;lich Almondy DAIM Mandeltorte Schoko-Krokant, 400 g, mit dem Mindesthaltbarkeitsdatum 18.11.2023. Almondy fordert Kundinnen und Kunden auf, sich entweder unter&amp;#xA0;www.almondy.com&amp;#xA0;direkt an Almondy zu wenden oder [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/lebensmittelwarnung/almondy-ruft-daim-produkt-zurueck-metallobjekt-in-einem-produkt-entdeckt/"&gt;Metallsplitter im Produkt: Lebensmittelrückruf von Almondy bei IKEA Deutschland&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/lebensmittelwarnung/almondy-ruft-daim-produkt-zurueck-metallobjekt-in-einem-produkt-entdeckt/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Schwerer Unfall bei Partenheim – PKW überschlägt sich und landet auf Acker</title>
-      <link>https://byc-news.de/alzey-worms/suzuki-ueberschlaegt-sich-im-kreis-alzey-worms-fahrer-im-auto-eingeklemmt/</link>
-      <comments>https://byc-news.de/alzey-worms/suzuki-ueberschlaegt-sich-im-kreis-alzey-worms-fahrer-im-auto-eingeklemmt/#respond</comments>
-      <dc:creator>Dennis Weber</dc:creator>
-      <pubDate>Fri, 23 Dec 2022 05:45:30 +0000</pubDate>
-      <category>Alzey-Worms</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112949</guid>
-      <description>&lt;p&gt;Ein SUV &amp;#xFC;berschlug sich am Donnerstagnachmittag (22. Dezember 2022) auf der Landstra&amp;#xDF;e L413 bei Partenheim. Eine Person wurde bei dem Unfall verletzt. Die Landstra&amp;#xDF;e musste f&amp;#xFC;r rund eine Stunde gesperrt werden. BYC-News war vor Ort. Von der Fahrbahn abgekommen und im Fahrzeug eingeklemmt Der 21-J&amp;#xE4;hrige war gegen 16:15 Uhr mit seinem Suzuki Jimny in Richtung [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/alzey-worms/suzuki-ueberschlaegt-sich-im-kreis-alzey-worms-fahrer-im-auto-eingeklemmt/"&gt;Schwerer Unfall bei Partenheim &amp;#8211; PKW überschlägt sich und landet auf Acker&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/alzey-worms/suzuki-ueberschlaegt-sich-im-kreis-alzey-worms-fahrer-im-auto-eingeklemmt/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Der nachhaltige Stadtplan für Ingelheim am Rhein ist online</title>
-      <link>https://byc-news.de/ingelheim/der-nachhaltige-stadtplan-fuer-ingelheim-am-rhein-ist-online/</link>
-      <comments>https://byc-news.de/ingelheim/der-nachhaltige-stadtplan-fuer-ingelheim-am-rhein-ist-online/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Fri, 23 Dec 2022 04:12:54 +0000</pubDate>
-      <category>Ingelheim</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112973</guid>
-      <description>&lt;p&gt;Zum Jahreswechsel gibt es gute Nachrichten in Sachen Nachhaltigkeit: Wer Tipps rund um Nachhaltigkeit sucht, findet auf dem neuen Online-Stadtplan MappING ab sofort Unterst&amp;#xFC;tzung. Der nachhaltige Online-Stadtplan f&amp;#xFC;r Ingelheim gibt einen &amp;#xDC;berblick &amp;#xFC;ber Anlaufstellen rund um nachhaltiges Leben und Konsumieren in Ingelheim. Nachhaltiges Ingelheim Unter www.nachhaltiges-ingelheim.de k&amp;#xF6;nnen auf der interaktiven Karte die Ingelheimer Orte der [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/ingelheim/der-nachhaltige-stadtplan-fuer-ingelheim-am-rhein-ist-online/"&gt;Der nachhaltige Stadtplan für Ingelheim am Rhein ist online&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/ingelheim/der-nachhaltige-stadtplan-fuer-ingelheim-am-rhein-ist-online/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Junger Mazda MX5 Fahrer schleudert über Autobahn A6</title>
-      <link>https://byc-news.de/blaulicht-rheinland-pfalz/junger-mazda-mx5-fahrer-schleudert-ueber-autobahn-a6/</link>
-      <comments>https://byc-news.de/blaulicht-rheinland-pfalz/junger-mazda-mx5-fahrer-schleudert-ueber-autobahn-a6/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Fri, 23 Dec 2022 04:06:19 +0000</pubDate>
-      <category>Blaulicht Rheinland-Pfalz</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112982</guid>
-      <description>&lt;p&gt;Am Donnerstag (22. Dezember 2022) gegen 13:45 Uhr kam es auf der Autobahn A6 in Fahrtrichtung Saarbr&amp;#xFC;cken zu einem Verkehrsunfall, welcher gl&amp;#xFC;cklicherweise glimpflich ausging. Ein junger Mann befuhr mit seinem Mazda MX5 die Auffahrt der Anschlussstelle Enkenbach-Alsenborn, als er auf noch feuchter Fahrbahnoberfl&amp;#xE4;che die Kontrolle &amp;#xFC;ber sein Fahrzeug verlor. Fahrzeug schleuderte &amp;#xFC;ber Fahrbahn Er schleuderte [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/blaulicht-rheinland-pfalz/junger-mazda-mx5-fahrer-schleudert-ueber-autobahn-a6/"&gt;Junger Mazda MX5 Fahrer schleudert über Autobahn A6&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/blaulicht-rheinland-pfalz/junger-mazda-mx5-fahrer-schleudert-ueber-autobahn-a6/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>René Nauheimer von der Autobahnpolizei Heidesheim in Ruhestand verabschiedet</title>
-      <link>https://byc-news.de/ingelheim/rene-nauheimer-von-der-autobahnpolizei-heidesheim-in-ruhestand-verabschiedet/</link>
-      <comments>https://byc-news.de/ingelheim/rene-nauheimer-von-der-autobahnpolizei-heidesheim-in-ruhestand-verabschiedet/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Fri, 23 Dec 2022 03:55:06 +0000</pubDate>
-      <category>Ingelheim</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112978</guid>
-      <description>&lt;p&gt;In einer Feierstunde im Polizeipr&amp;#xE4;sidium Mainz wurde heute der langj&amp;#xE4;hrige Leiter der Polizeiautobahnstation Heidesheim, Erster Polizeihauptkommissar Ren&amp;#xE9; Nauheimer, in den Ruhestand versetzt. Polizeipr&amp;#xE4;sident Reiner Hamm verabschiedete Nauheimer unter den Augen vieler G&amp;#xE4;ste aus der &amp;#xD6;ffentlichkeit und anderer Blaulichtorganisationen, pers&amp;#xF6;nlich in den Ruhestand. Nauheimer hat in 44 Jahren und 3 Monaten zahlreiche, verantwortungsvolle Funktionen im Polizeipr&amp;#xE4;sidium [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/ingelheim/rene-nauheimer-von-der-autobahnpolizei-heidesheim-in-ruhestand-verabschiedet/"&gt;René Nauheimer von der Autobahnpolizei Heidesheim in Ruhestand verabschiedet&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/ingelheim/rene-nauheimer-von-der-autobahnpolizei-heidesheim-in-ruhestand-verabschiedet/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Unfallflucht in Bischofsheim – Wer hatte etwas beobachtet?</title>
-      <link>https://byc-news.de/kurzmeldungen/unfallflucht-in-bischofsheim-wer-hatte-etwas-beobachtet/</link>
-      <comments>https://byc-news.de/kurzmeldungen/unfallflucht-in-bischofsheim-wer-hatte-etwas-beobachtet/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Fri, 23 Dec 2022 03:39:58 +0000</pubDate>
-      <category>Kurzmeldungen</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112976</guid>
-      <description>&lt;p&gt;Im Zeitraum zwischen Sonntag (18. Dezember 2022) 19:30 Uhr, und Montag (19. Dezember 2022) 12:00 Uhr, besch&amp;#xE4;digte ein noch unbekannter Verkehrsteilnehmer einen roten Audi A4, der in der Mainstra&amp;#xDF;e, Ecke Friedrich-Ebert-Stra&amp;#xDF;e am Fahrbahnrand abgestellt war. Etwa 1000 Euro wird den Fahrzeughalter die Reparatur des Fahrzeugs kosten, das an der vorderen Sto&amp;#xDF;stange besch&amp;#xE4;digt wurde. Hinweise auf [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/kurzmeldungen/unfallflucht-in-bischofsheim-wer-hatte-etwas-beobachtet/"&gt;Unfallflucht in Bischofsheim &amp;#8211; Wer hatte etwas beobachtet?&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/kurzmeldungen/unfallflucht-in-bischofsheim-wer-hatte-etwas-beobachtet/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Vollsperrung nach Unfall mit fünf schwer Verletzten im Kreis Groß-Gerau</title>
-      <link>https://byc-news.de/gross-gerau/vollsperrung-nach-unfall-mit-fuenf-schwer-verletzten-im-kreis-gross-gerau/</link>
-      <comments>https://byc-news.de/gross-gerau/vollsperrung-nach-unfall-mit-fuenf-schwer-verletzten-im-kreis-gross-gerau/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Fri, 23 Dec 2022 03:29:57 +0000</pubDate>
-      <category>Groß-Gerau</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112971</guid>
-      <description>&lt;p&gt;Am Donnerstag (22. Dezember 2022) kam es gegen 17:25 Uhr zu einem schweren Verkehrsunfall an der Einm&amp;#xFC;ndung der Kreisstra&amp;#xDF;e K153 zur K150 bei Riedstadt im Kreis Gro&amp;#xDF;-Gerau. Die Polizei, die Feuerwehr und mehrere Rettungsdienste waren vor Ort im Einsatz. Vollsperrung f&amp;#xFC;r zwei Stunden Eine 54-j&amp;#xE4;hrige Frau war mit ihrem Fahrzeug auf der K153 aus Richtung [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/gross-gerau/vollsperrung-nach-unfall-mit-fuenf-schwer-verletzten-im-kreis-gross-gerau/"&gt;Vollsperrung nach Unfall mit fünf schwer Verletzten im Kreis Groß-Gerau&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/gross-gerau/vollsperrung-nach-unfall-mit-fuenf-schwer-verletzten-im-kreis-gross-gerau/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Aktuell: Feuerwehreinsatz und Sperrung an der Aral Tankstelle in Ingelheim</title>
-      <link>https://byc-news.de/ingelheim/aktuell-feuerwehreinsatz-und-sperrung-an-der-aral-tankstelle-in-ingelheim/</link>
-      <comments>https://byc-news.de/ingelheim/aktuell-feuerwehreinsatz-und-sperrung-an-der-aral-tankstelle-in-ingelheim/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Thu, 22 Dec 2022 13:29:32 +0000</pubDate>
-      <category>Ingelheim</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112944</guid>
-      <description>&lt;p&gt;Aktuell kommt es zu einem Einsatz der Feuerwehr an der Aral Tankstelle in der Konrad-Adenauer-Stra&amp;#xDF;e in Ingelheim am Rhein. Dort waren gegen 13:40 Uhr mehrere Liter Diesel aus einem Lastwagen ausgelaufen, die sich auf einer Fl&amp;#xE4;che von rund 1000 Quadratmetern verteilten. Der Einsatz gestaltet sich aufw&amp;#xE4;ndig Wie die Polizei auf Anfrage von BYC-News mitteilt, ist [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/ingelheim/aktuell-feuerwehreinsatz-und-sperrung-an-der-aral-tankstelle-in-ingelheim/"&gt;Aktuell: Feuerwehreinsatz und Sperrung an der Aral Tankstelle in Ingelheim&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/ingelheim/aktuell-feuerwehreinsatz-und-sperrung-an-der-aral-tankstelle-in-ingelheim/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Motorradfahrer stirbt nach tragischem Unfall zwischen Mainz-Ebersheim und Hechtsheim</title>
-      <link>https://byc-news.de/mainz/motorradfahrer-stirbt-nach-tragischem-unfall-zwischen-mainz-ebersheim-und-hechtsheim/</link>
-      <comments>https://byc-news.de/mainz/motorradfahrer-stirbt-nach-tragischem-unfall-zwischen-mainz-ebersheim-und-hechtsheim/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Thu, 22 Dec 2022 11:16:09 +0000</pubDate>
-      <category>Mainz</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112936</guid>
-      <description>&lt;p&gt;Bereits am 17. Oktober 2022 kam es zu einem schweren Verkehrsunfall auf der Rheinhessenstra&amp;#xDF;e zwischen den beiden Mainzer Stadtteilen Hechtsheim und Ebersheim. Nun verstarb ein weiterer am Unfall beteiligter Mann an den schweren Verletzungen, die er durch den Unfall erlitt. Polizei und Staatsanwaltschaft ermitteln gegen beteiligten Fahrer Damals geriet ein Kleintransporter in den Gegenverkehr und [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/mainz/motorradfahrer-stirbt-nach-tragischem-unfall-zwischen-mainz-ebersheim-und-hechtsheim/"&gt;Motorradfahrer stirbt nach tragischem Unfall zwischen Mainz-Ebersheim und Hechtsheim&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/mainz/motorradfahrer-stirbt-nach-tragischem-unfall-zwischen-mainz-ebersheim-und-hechtsheim/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Aktuell: Hangrutsch sorgt für Vollsperrung der Bundesstraße B9</title>
-      <link>https://byc-news.de/blaulicht-rheinland-pfalz/aktuell-hangrutsch-sorgt-fuer-vollsperrung-der-bundesstrasse-b9/</link>
-      <comments>https://byc-news.de/blaulicht-rheinland-pfalz/aktuell-hangrutsch-sorgt-fuer-vollsperrung-der-bundesstrasse-b9/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Thu, 22 Dec 2022 10:50:42 +0000</pubDate>
-      <category>Blaulicht Rheinland-Pfalz</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112933</guid>
-      <description>&lt;p&gt;Aktuell ist die Bundesstra&amp;#xDF;e B9 sowie die danebenliegende Bahnstrecke im Bereich der Kauber F&amp;#xE4;hre / Haus Engelsburg zwischen Oberwesel und Bacharach gesperrt. Grund daf&amp;#xFC;r ist ein Hangrutsch. Einsatzkr&amp;#xE4;fte von Feuerwehr, Rettungsdienst und Polizei sind seit den fr&amp;#xFC;hen Morgenstunden vor Ort. Gegen 7:30 Uhr wurden die Einsatzkr&amp;#xE4;fte mit dem Einsatzstichwort &amp;#x201E;Absicherung&amp;#x201C;alarmiert Nach erster R&amp;#xFC;cksprache mit der [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/blaulicht-rheinland-pfalz/aktuell-hangrutsch-sorgt-fuer-vollsperrung-der-bundesstrasse-b9/"&gt;Aktuell: Hangrutsch sorgt für Vollsperrung der Bundesstraße B9&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/blaulicht-rheinland-pfalz/aktuell-hangrutsch-sorgt-fuer-vollsperrung-der-bundesstrasse-b9/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Warnung der Polizei vor Betrüger im Rheingau – Täter erbeuteten mehrere Tausend Euro</title>
-      <link>https://byc-news.de/rheingau-taunus/warnung-der-polizei-vor-betrueger-im-rheingau-taeter-erbeuteten-mehrere-tausend-euro/</link>
-      <comments>https://byc-news.de/rheingau-taunus/warnung-der-polizei-vor-betrueger-im-rheingau-taeter-erbeuteten-mehrere-tausend-euro/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Thu, 22 Dec 2022 03:47:44 +0000</pubDate>
-      <category>Rheingau-Taunus-Kreis</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112917</guid>
-      <description>&lt;p&gt;Am Sonntag (18. Dezember 2022) kam es zu einem erfolgreichen Betrug in Eltville am Rhein (Rheingau). Die Betr&amp;#xFC;ger kontaktierten &amp;#xFC;ber den Messengerdienst WhatsApp ihr Opfer und erbeuteten so mehrere Tausend Euro. Wie gehen die Betr&amp;#xFC;ger vor? Wie beim klassischen Enkeltrick am Telefon beginnen die Betr&amp;#xFC;ger ihre Masche mit einer namenlosen Anfrage. Dann spinnen sie ihre [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/rheingau-taunus/warnung-der-polizei-vor-betrueger-im-rheingau-taeter-erbeuteten-mehrere-tausend-euro/"&gt;Warnung der Polizei vor Betrüger im Rheingau &amp;#8211; Täter erbeuteten mehrere Tausend Euro&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/rheingau-taunus/warnung-der-polizei-vor-betrueger-im-rheingau-taeter-erbeuteten-mehrere-tausend-euro/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Notfallregelungen Kreisverwaltung Mainz-Bingen – Kindeswohl und Zulassungsstelle zwischen den Jahren</title>
-      <link>https://byc-news.de/ingelheim/notfallregelungen-kreisverwaltung-mainz-bingen-kindeswohl-und-zulassungsstelle-zwischen-den-jahren/</link>
-      <comments>https://byc-news.de/ingelheim/notfallregelungen-kreisverwaltung-mainz-bingen-kindeswohl-und-zulassungsstelle-zwischen-den-jahren/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Thu, 22 Dec 2022 03:31:16 +0000</pubDate>
-      <category>Ingelheim</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112921</guid>
-      <description>&lt;p&gt;W&amp;#xE4;hrend der Schlie&amp;#xDF;zeiten der Kreisverwaltung Mainz-Bingen vom 27. bis 30. Dezember gelten folgende Ausnahme- und Notfallregelungen: Bereich Kindeswohl In Notf&amp;#xE4;llen in den Bereichen Kindeswohl wird darum gebeten, eine Polizeidienststelle zu kontaktieren, die dann umgehend den Allgemeinen Sozialen Dienst des Jugendamtes einschaltet. Ebenso ist die Polizei der Ansprechpartner bei Notf&amp;#xE4;llen, die in der Zust&amp;#xE4;ndigkeit der Ausl&amp;#xE4;nderbeh&amp;#xF6;rde [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/ingelheim/notfallregelungen-kreisverwaltung-mainz-bingen-kindeswohl-und-zulassungsstelle-zwischen-den-jahren/"&gt;Notfallregelungen Kreisverwaltung Mainz-Bingen &amp;#8211; Kindeswohl und Zulassungsstelle zwischen den Jahren&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/ingelheim/notfallregelungen-kreisverwaltung-mainz-bingen-kindeswohl-und-zulassungsstelle-zwischen-den-jahren/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Angespannte Situation am Flughafen Frankfurt am Main – Wichtige Info für Reisende</title>
-      <link>https://byc-news.de/frankfurt/angespannte-situation-am-flughafen-frankfurt-am-main-wichtige-info-fuer-reisende/</link>
-      <comments>https://byc-news.de/frankfurt/angespannte-situation-am-flughafen-frankfurt-am-main-wichtige-info-fuer-reisende/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Thu, 22 Dec 2022 03:03:58 +0000</pubDate>
-      <category>Frankfurt</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112898</guid>
-      <description>&lt;p&gt;Vor dem Hintergrund der weiterhin bestehenden Personalengp&amp;#xE4;sse und aktuell hoher Krankenst&amp;#xE4;nde kommt es auch am Flughafen Frankfurt zu Personalunterdeckungen, insbesondere an den Sicherheitskontrollen und bei der Gep&amp;#xE4;ckabfertigung. 2,5 Stunden vor Abflug am Flughafen &amp;#x201E;Wir werden gemeinsam mit unseren Partnern alles daf&amp;#xFC;r tun, um die Auswirkungen m&amp;#xF6;glichst gering zu halten&amp;#x201C;, erkl&amp;#xE4;rte ein Fraport-Sprecher. &amp;#x201E;Zus&amp;#xE4;tzlich zur angespannten [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/frankfurt/angespannte-situation-am-flughafen-frankfurt-am-main-wichtige-info-fuer-reisende/"&gt;Angespannte Situation am Flughafen Frankfurt am Main &amp;#8211; Wichtige Info für Reisende&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/frankfurt/angespannte-situation-am-flughafen-frankfurt-am-main-wichtige-info-fuer-reisende/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Andrea Frenzel wechselt von BASF in den Vorstand bei der Schott AG in Mainz</title>
-      <link>https://byc-news.de/mainz/andrea-frenzel-wechselt-von-basf-in-den-vorstand-bei-der-schott-ag-in-mainz/</link>
-      <comments>https://byc-news.de/mainz/andrea-frenzel-wechselt-von-basf-in-den-vorstand-bei-der-schott-ag-in-mainz/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Thu, 22 Dec 2022 02:52:24 +0000</pubDate>
-      <category>Mainz</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112906</guid>
-      <description>&lt;p&gt;Andrea Frenzel (52) wird zum 01. April 2023 neues Mitglied im Vorstand der SCHOTT AG und folgt damit Hermann Ditz (63), der in den wohlverdienten Ruhestand eintreten wird. Frau Frenzel war zuvor bei der BASF SE, Ludwigshafen, t&amp;#xE4;tig, wo sie zuletzt als President die Operating Division Intermediates verantwortet hat. Bei SCHOTT wird sie im Vorstand [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/mainz/andrea-frenzel-wechselt-von-basf-in-den-vorstand-bei-der-schott-ag-in-mainz/"&gt;Andrea Frenzel wechselt von BASF in den Vorstand bei der Schott AG in Mainz&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/mainz/andrea-frenzel-wechselt-von-basf-in-den-vorstand-bei-der-schott-ag-in-mainz/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Das ändert sich im Bereich Steuern ab 2023</title>
-      <link>https://byc-news.de/ueberregional/das-aendert-sich-im-bereich-steuern-ab-2023/</link>
-      <comments>https://byc-news.de/ueberregional/das-aendert-sich-im-bereich-steuern-ab-2023/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Thu, 22 Dec 2022 01:01:00 +0000</pubDate>
-      <category>Überregional</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112611</guid>
-      <description>&lt;p&gt;Die Homeoffice-Pauschale steigt, Lohnsteuerhilfevereine d&amp;#xFC;rfen Betreiber von Photovoltaik-Anlagen beraten, etliche Pauschalen steigen: Das Jahressteuergesetz 2022 sowie drei Entlastungspakete der Bundesregierung im Jahr 2022 bringen etliche &amp;#xC4;nderungen im Einkommensteuerrecht. Die vielleicht wichtigsten Neuerungen f&amp;#xFC;r Arbeitnehmerinnen und Arbeitnehmer zeigt der Lohnsteuerhilfeverein Vereinigte Lohnsteuerhilfe e. V. (VLH) im &amp;#xDC;berblick. Grundfreibetrag steigt Das sogenannte Existenzminimum muss f&amp;#xFC;r alle steuerfrei [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/ueberregional/das-aendert-sich-im-bereich-steuern-ab-2023/"&gt;Das ändert sich im Bereich Steuern ab 2023&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/ueberregional/das-aendert-sich-im-bereich-steuern-ab-2023/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Tödlicher Unfall in der Innenstadt von Bad Kreuznach – War es Fremdverschulden?</title>
-      <link>https://byc-news.de/bad-kreuznach/toedlicher-unfall-in-der-innenstadt-von-bad-kreuznach-war-es-fremdverschulden/</link>
-      <comments>https://byc-news.de/bad-kreuznach/toedlicher-unfall-in-der-innenstadt-von-bad-kreuznach-war-es-fremdverschulden/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Thu, 22 Dec 2022 00:29:25 +0000</pubDate>
-      <category>Bad Kreuznach</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112912</guid>
-      <description>&lt;p&gt;Bereits am Donnerstag (15. Dezember 2022) kam es zu einem tragischen Unfall in der Bad Kreuznacher Innenstadt. Eine 82-j&amp;#xE4;hrige Frau st&amp;#xFC;rzte gegen 10:15 Uhr in der Kinscherfstra&amp;#xDF;e und zog sich dabei schwere Kopfverletzungen zu. Die Frau verstarb am Sonntag in der Uniklinik in Mainz. War es Fremdverschulden? Vom alarmierten Rettungsdienst wurde die Frau vor Ort [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/bad-kreuznach/toedlicher-unfall-in-der-innenstadt-von-bad-kreuznach-war-es-fremdverschulden/"&gt;Tödlicher Unfall in der Innenstadt von Bad Kreuznach &amp;#8211; War es Fremdverschulden?&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/bad-kreuznach/toedlicher-unfall-in-der-innenstadt-von-bad-kreuznach-war-es-fremdverschulden/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Feuerwehr sammelt Tannenbäume in Oppenheim ein</title>
-      <link>https://byc-news.de/rhein-selz/feuerwehr-sammelt-tannenbaeume-in-oppenheim-ein/</link>
-      <comments>https://byc-news.de/rhein-selz/feuerwehr-sammelt-tannenbaeume-in-oppenheim-ein/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Thu, 22 Dec 2022 00:09:05 +0000</pubDate>
-      <category>Rhein-Selz</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112505</guid>
-      <description>&lt;p&gt;Am Samstag, den 7. Januar 2023 sammelt die Feuerwehr Oppenheim gegen eine kleine Spende die ausrangierten und abgeschm&amp;#xFC;ckten B&amp;#xE4;ume in der Stadt Oppenheim ein. Die Anwohner werden gebeten, ihre B&amp;#xE4;ume ab 9:00 Uhr gut sichtbar an die Stra&amp;#xDF;e zu stellen. Nach zwei Jahren Pause freut sich die Feuerwehr alle Oppenheimerinnen und Oppenheimer ab 17 Uhr [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/rhein-selz/feuerwehr-sammelt-tannenbaeume-in-oppenheim-ein/"&gt;Feuerwehr sammelt Tannenbäume in Oppenheim ein&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/rhein-selz/feuerwehr-sammelt-tannenbaeume-in-oppenheim-ein/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Warum eine Skill Matrix wichtig für Unternehmen ist</title>
-      <link>https://byc-news.de/wirtschaft/warum-eine-skill-matrix-wichtig-fuer-unternehmen-ist/</link>
-      <comments>https://byc-news.de/wirtschaft/warum-eine-skill-matrix-wichtig-fuer-unternehmen-ist/#respond</comments>
-      <dc:creator>Janine Klose</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 23:01:33 +0000</pubDate>
-      <category>Wirtschaft</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=109869</guid>
-      <description>&lt;p&gt;Unternehmen sind st&amp;#xE4;ndig auf der Suche nach M&amp;#xF6;glichkeiten bessere Mitarbeiter zu finden. Doch nicht nur die Gesch&amp;#xE4;ftsf&amp;#xFC;hrung lebt von ihren Mitarbeitern. Selbst F&amp;#xFC;hrungskr&amp;#xE4;fte, Assistenten und Fachkr&amp;#xE4;fte sind auf sie angewiesen. Jeder der einzelnen Mitarbeiter erf&amp;#xFC;llt dabei eine Aufgabe. Hierbei gilt: Je genauer die Anforderungen mit der Realit&amp;#xE4;t miteinander &amp;#xFC;bereinstimmen, desto besser f&amp;#xFC;r die Firma. Wichtig [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/wirtschaft/warum-eine-skill-matrix-wichtig-fuer-unternehmen-ist/"&gt;Warum eine Skill Matrix wichtig für Unternehmen ist&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/wirtschaft/warum-eine-skill-matrix-wichtig-fuer-unternehmen-ist/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Entflohener Straftäter aus der JVA Gräfentonna in Bad Langensalza festgenommen</title>
-      <link>https://byc-news.de/bundesweite-fahndung-und-vermisstensuche/entflohener-straftaeter-aus-der-jva-graefentonna-in-bad-langensalza-festgenommen/</link>
-      <comments>https://byc-news.de/bundesweite-fahndung-und-vermisstensuche/entflohener-straftaeter-aus-der-jva-graefentonna-in-bad-langensalza-festgenommen/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 23:00:50 +0000</pubDate>
-      <category>Blaulicht Bundesweit</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112914</guid>
-      <description>&lt;p&gt;Fahndungserfolg: Wie die Polizei am 22.12.2022 gegen 1:00 Uhr mitteilt: Die intensiven Fahndungsma&amp;#xDF;nahmen der Polizei Th&amp;#xFC;ringen nach dem entwichenen Strafgefangenen f&amp;#xFC;hrten gegen Mitternacht zum Erfolg. Die Person konnte im Stadtgebiet von Bad Langensalza nach stundenlanger Suche in Gewahrsam genommen und anschlie&amp;#xDF;end wieder der JVA Gr&amp;#xE4;fentonna zugef&amp;#xFC;hrt werden. Bis dahin waren auch zahlreiche Informationen aus der [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/bundesweite-fahndung-und-vermisstensuche/entflohener-straftaeter-aus-der-jva-graefentonna-in-bad-langensalza-festgenommen/"&gt;Entflohener Straftäter aus der JVA Gräfentonna in Bad Langensalza festgenommen&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/bundesweite-fahndung-und-vermisstensuche/entflohener-straftaeter-aus-der-jva-graefentonna-in-bad-langensalza-festgenommen/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Totalschaden: Mutter baut betrunken mit 3-jähriger Tochter Unfall</title>
-      <link>https://byc-news.de/bad-kreuznach/totalschaden-mutter-baut-betrunken-mit-3-jaehriger-tochter-unfall/</link>
-      <comments>https://byc-news.de/bad-kreuznach/totalschaden-mutter-baut-betrunken-mit-3-jaehriger-tochter-unfall/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 22:27:36 +0000</pubDate>
-      <category>Bad Kreuznach</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112894</guid>
-      <description>&lt;p&gt;Am Mittwoch (21. Dezember 2022) wurde die Polizei und der Rettungsdienst zu einem Unfall auf der Kreisstra&amp;#xDF;e K50 zwischen Wallhausen und Sommerloch alarmiert. Wie die Polizei Bad Kreuznach berichtet, wurde bei dem Unfall ein 3-j&amp;#xE4;hriges Kind und die Fahrerin verletzt. Mit dem PKW in den Stra&amp;#xDF;engraben Eine 35-j&amp;#xE4;hrige Mutter kam in einer Rechtskurve mit ihrem [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/bad-kreuznach/totalschaden-mutter-baut-betrunken-mit-3-jaehriger-tochter-unfall/"&gt;Totalschaden: Mutter baut betrunken mit 3-jähriger Tochter Unfall&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/bad-kreuznach/totalschaden-mutter-baut-betrunken-mit-3-jaehriger-tochter-unfall/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>12 Stunden Feuerwehreinsatz in St. Johann – Wasserschaden mit Folgen</title>
-      <link>https://byc-news.de/bingen/12-stunden-feuerwehreinsatz-in-st-johann-wasserschaden-mit-folgen/</link>
-      <comments>https://byc-news.de/bingen/12-stunden-feuerwehreinsatz-in-st-johann-wasserschaden-mit-folgen/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 16:21:54 +0000</pubDate>
-      <category>Bingen</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112879</guid>
-      <description>&lt;p&gt;Am Dienstag (20. Dezember 2022) wurden mehrere Feuerwehreinheiten nach St. Johann zu einem Wasserschaden alarmiert. Wie die Freiwillige Feuerwehr Sprendlingen berichtet,&amp;#xA0; stand ein Keller beim Eintreffen der ersten Einsatzkr&amp;#xE4;fte bereits 80cm unter Wasser. Die Feuerwehr Sprendlingen forderte umgehend weitere Kr&amp;#xE4;fte an. Die Freiwillige Feuerwehr Sprendlingen berichtet: &amp;#8222;Eine weitere Erkundung vor Ort ergab, dass sich das [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/bingen/12-stunden-feuerwehreinsatz-in-st-johann-wasserschaden-mit-folgen/"&gt;12 Stunden Feuerwehreinsatz in St. Johann &amp;#8211; Wasserschaden mit Folgen&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/bingen/12-stunden-feuerwehreinsatz-in-st-johann-wasserschaden-mit-folgen/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Nötigung von Einsatzkräften – Autofahrer räumt Absperrung der Feuerwehr in Hofheim weg</title>
-      <link>https://byc-news.de/kurzmeldungen/noetigung-von-einsatzkraeften-autofahrer-raeumt-absperrung-der-feuerwehr-in-hofheim-weg/</link>
-      <comments>https://byc-news.de/kurzmeldungen/noetigung-von-einsatzkraeften-autofahrer-raeumt-absperrung-der-feuerwehr-in-hofheim-weg/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 15:06:16 +0000</pubDate>
-      <category>Kurzmeldungen</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112877</guid>
-      <description>&lt;p&gt;Ein Autofahrer war in Marxheim am Dienstagabend nicht mit der Arbeit der Feuerwehr einverstanden und n&amp;#xF6;tigte sie mit seinem Auto Platz f&amp;#xFC;r ihn zu machen. Der 81-J&amp;#xE4;hrige war mit seinem VW in der Kassernstra&amp;#xDF;e unterwegs. Dort hatte die Feuerwehr allerdings die Stra&amp;#xDF;e mit Pylonen abgesperrt, da der Arbeitsbereich rund um einen Brand freigehalten werden musste. [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/kurzmeldungen/noetigung-von-einsatzkraeften-autofahrer-raeumt-absperrung-der-feuerwehr-in-hofheim-weg/"&gt;Nötigung von Einsatzkräften &amp;#8211; Autofahrer räumt Absperrung der Feuerwehr in Hofheim weg&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/kurzmeldungen/noetigung-von-einsatzkraeften-autofahrer-raeumt-absperrung-der-feuerwehr-in-hofheim-weg/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Baden in Thermalwasser aus 1522 Metern Tiefe in Bad Griesbach</title>
-      <link>https://byc-news.de/freizeittipps/baden-in-thermalwasser-aus-1522-metern-tiefe-in-bad-griesbach/</link>
-      <comments>https://byc-news.de/freizeittipps/baden-in-thermalwasser-aus-1522-metern-tiefe-in-bad-griesbach/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 14:51:23 +0000</pubDate>
-      <category>Freizeittipps</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112869</guid>
-      <description>&lt;p&gt;Mit sinkenden Au&amp;#xDF;entemperaturen steigt die Sehnsucht nach W&amp;#xE4;rme. Und die kommt in Orten wie Bad Griesbach, rund 25 Kilometer s&amp;#xFC;dwestlich von Passau, aus dem Erdinneren. &amp;#x201E;Unser heilkr&amp;#xE4;ftiges, bis zu 60 Grad warmes Thermal-Mineralwasser wird aus 1.522 Metern Tiefe nach oben gepumpt und muss nicht erst mit viel Energieaufwand erhitzt werden&amp;#x201C;, erkl&amp;#xE4;rt Tourismusdirektor Dieter Weinzierl und [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/freizeittipps/baden-in-thermalwasser-aus-1522-metern-tiefe-in-bad-griesbach/"&gt;Baden in Thermalwasser aus 1522 Metern Tiefe in Bad Griesbach&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/freizeittipps/baden-in-thermalwasser-aus-1522-metern-tiefe-in-bad-griesbach/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Volt Mainz bleibt neutral und gibt keine Wahlempfehlung ab – Infos zum Mainz-O-Mat Oberbürgermeisterwahl</title>
-      <link>https://byc-news.de/mainz/volt-mainz-bleibt-neutral-und-gibt-keine-wahlempfehlung-zur-oberbuergermeisterwahl-ab/</link>
-      <comments>https://byc-news.de/mainz/volt-mainz-bleibt-neutral-und-gibt-keine-wahlempfehlung-zur-oberbuergermeisterwahl-ab/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 14:37:41 +0000</pubDate>
-      <category>Mainz</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112866</guid>
-      <description>&lt;p&gt;&amp;#x201C;Volt Mainz wird f&amp;#xFC;r die OB-Wahl 2023 keinen eigenen Kandidierenden ins Rennen um das Amt des Mainzer Oberb&amp;#xFC;rgermeisters schicken&amp;#x201D;, gibt Co-City-Lead Florian K&amp;#xF6;hler-Langes bekannt. &amp;#x201C;Das Mainzer Volt-Team hat sich in einer digitalen Umfrage mit gro&amp;#xDF;er Mehrheit daf&amp;#xFC;r ausgesprochen, keine Wahlempfehlung f&amp;#xFC;r Kandidierende anderer Parteien abzugeben. Stattdessen bleiben wir neutral und werden wieder, wie zur OB-Wahl [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/mainz/volt-mainz-bleibt-neutral-und-gibt-keine-wahlempfehlung-zur-oberbuergermeisterwahl-ab/"&gt;Volt Mainz bleibt neutral und gibt keine Wahlempfehlung ab &amp;#8211; Infos zum Mainz-O-Mat Oberbürgermeisterwahl&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/mainz/volt-mainz-bleibt-neutral-und-gibt-keine-wahlempfehlung-zur-oberbuergermeisterwahl-ab/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Dankeschön an die DLRG in Hessen: 11.000 Euro für die Bezirks- und Kreisverbände</title>
-      <link>https://byc-news.de/blaulicht-hessen/dankeschoen-an-die-dlrg-in-hessen-11-000-euro-fuer-die-bezirks-und-kreisverbaende/</link>
-      <comments>https://byc-news.de/blaulicht-hessen/dankeschoen-an-die-dlrg-in-hessen-11-000-euro-fuer-die-bezirks-und-kreisverbaende/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 13:41:14 +0000</pubDate>
-      <category>Blaulicht Hessen</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112843</guid>
-      <description>&lt;p&gt;Sie sind zur Stelle, wenn Menschen im Wasser die Kraft ausgeht: die Rettungsschwimmerinnen und Rettungsschwimmer der Deutschen Lebensrettungs-gesellschaft (DLRG). Hessens Ministerpr&amp;#xE4;sident Boris Rhein unterst&amp;#xFC;tzt ihre Arbeit in diesem Jahr deshalb mit insgesamt 11.000 Euro aus Sondermitteln. 22 Bezirks- und Kreisverb&amp;#xE4;nde in Hessen erhalten jeweils 500 Euro. Die Sondermittel, die f&amp;#xFC;r gemeinn&amp;#xFC;tzige, soziale, sportliche und kulturelle [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/blaulicht-hessen/dankeschoen-an-die-dlrg-in-hessen-11-000-euro-fuer-die-bezirks-und-kreisverbaende/"&gt;Dankeschön an die DLRG in Hessen: 11.000 Euro für die Bezirks- und Kreisverbände&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/blaulicht-hessen/dankeschoen-an-die-dlrg-in-hessen-11-000-euro-fuer-die-bezirks-und-kreisverbaende/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>87 Jahre alter Mann aus dem Rheingau-Taunus vermisst – Kriminalpolizei bittet um Mithilfe</title>
-      <link>https://byc-news.de/rheingau-taunus/87-jahre-alter-mann-aus-dem-rheingau-taunus-vermisst-kriminalpolizei-bittet-um-mithilfe/</link>
-      <comments>https://byc-news.de/rheingau-taunus/87-jahre-alter-mann-aus-dem-rheingau-taunus-vermisst-kriminalpolizei-bittet-um-mithilfe/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 12:39:26 +0000</pubDate>
-      <category>Rheingau-Taunus-Kreis</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112861</guid>
-      <description>&lt;p&gt;Die Kriminalpolizei in Wiesbaden bittet bei einer Vermisstenfahndung um die Mithilfe der B&amp;#xFC;rgerinnen und B&amp;#xFC;rger. Der 87 Jahre alte Wolfgang Heide aus der Adelheidstra&amp;#xDF;e in Niederwalluf wird derzeit vermisst. Er verlie&amp;#xDF; am Dienstagmittag (20. Dezember 2022) seine Wohnanschrift und wurde seitdem nicht mehr gesehen. Die durchgef&amp;#xFC;hrten Such- und Ermittlungsma&amp;#xDF;nahmen brachten bislang keinen Erfolg. Eine Gefahr [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/rheingau-taunus/87-jahre-alter-mann-aus-dem-rheingau-taunus-vermisst-kriminalpolizei-bittet-um-mithilfe/"&gt;87 Jahre alter Mann aus dem Rheingau-Taunus vermisst &amp;#8211; Kriminalpolizei bittet um Mithilfe&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/rheingau-taunus/87-jahre-alter-mann-aus-dem-rheingau-taunus-vermisst-kriminalpolizei-bittet-um-mithilfe/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Weihnachtliche Stimmung vor dem St. Marienwörth in Bad Kreuznach</title>
-      <link>https://byc-news.de/bad-kreuznach/weihnachtliche-stimmung-vor-dem-st-marienwoerth-in-bad-kreuznach/</link>
-      <comments>https://byc-news.de/bad-kreuznach/weihnachtliche-stimmung-vor-dem-st-marienwoerth-in-bad-kreuznach/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 12:16:28 +0000</pubDate>
-      <category>Bad Kreuznach</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112761</guid>
-      <description>&lt;p&gt;Den vierten Advent auch f&amp;#xFC;r die Patienten im Krankenhaus St. Marienw&amp;#xF6;rth etwas feierlich gestalten &amp;#x2013; das haben sich die Musikerinnen und Musiker der Stadtkapelle Bad Sobernheim vorgenommen. Nachmittags ab 16 Uhr spielten sie bekannte Weihnachtslieder wie &amp;#x201E;Stille Nacht&amp;#x201C; oder &amp;#x201E;O, du fr&amp;#xF6;hliche&amp;#x201C;. Da es in den Krankenh&amp;#xE4;usern der Region immer noch Besuchsbeschr&amp;#xE4;nkungen gibt, postierte sich [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/bad-kreuznach/weihnachtliche-stimmung-vor-dem-st-marienwoerth-in-bad-kreuznach/"&gt;Weihnachtliche Stimmung vor dem St. Marienwörth in Bad Kreuznach&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/bad-kreuznach/weihnachtliche-stimmung-vor-dem-st-marienwoerth-in-bad-kreuznach/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Baumnachpflanzungen im Stadtgebiet von Oppenheim</title>
-      <link>https://byc-news.de/ueberregional/baumnachpflanzungen-im-stadtgebiet-von-oppenheim/</link>
-      <comments>https://byc-news.de/ueberregional/baumnachpflanzungen-im-stadtgebiet-von-oppenheim/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 12:16:20 +0000</pubDate>
-      <category>Überregional</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112750</guid>
-      <description>&lt;p&gt;Die Stadt Oppenheim hat in der letzten Woche in weiten Teilen des Stadtgebiets 20 Laubb&amp;#xE4;ume erster und zweiter Ordnung nachgepflanzt. Es handelt sich dabei vor allem um Ersatzpflanzungen von abgestorbenen oder nicht mehr vorhandenen B&amp;#xE4;umen entlang von inner&amp;#xF6;rtlichen Stra&amp;#xDF;en und auf Spielpl&amp;#xE4;tzen. Ausgew&amp;#xE4;hlt wurden ausschlie&amp;#xDF;lich klimafeste Baumarten: Silberlinden Apfeldorn Apfelbaum Blumeneschen Elsbeere Holzbirne Kornelkirsche S&amp;#xE4;ulenhainbuchen [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/ueberregional/baumnachpflanzungen-im-stadtgebiet-von-oppenheim/"&gt;Baumnachpflanzungen im Stadtgebiet von Oppenheim&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/ueberregional/baumnachpflanzungen-im-stadtgebiet-von-oppenheim/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Baufortschritt im Museumsarchiv in Nauheim</title>
-      <link>https://byc-news.de/gross-gerau/baufortschritt-im-museumsarchiv-in-nauheim/</link>
-      <comments>https://byc-news.de/gross-gerau/baufortschritt-im-museumsarchiv-in-nauheim/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 12:16:15 +0000</pubDate>
-      <category>Groß-Gerau</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112845</guid>
-      <description>&lt;p&gt;Seit Anfang Oktober baut der Heimat- und Museumsverein mit Unterst&amp;#xFC;tzung der Gemeinde ein neues Geb&amp;#xE4;ude f&amp;#xFC;r das Museumsarchiv. Auf dem Gel&amp;#xE4;nde der Schulstra&amp;#xDF;e 6 entsteht ein neues Geb&amp;#xE4;ude f&amp;#xFC;r das Museumsarchiv. Da die einstigen Archiv- und Arbeitsr&amp;#xE4;ume des Heimat- und Museumsvereins (HUM) im alten Schulgeb&amp;#xE4;ude aufgrund von Brandschutzvorschriften geschlossen werden mussten, soll im neuen Geb&amp;#xE4;ude [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/gross-gerau/baufortschritt-im-museumsarchiv-in-nauheim/"&gt;Baufortschritt im Museumsarchiv in Nauheim&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/gross-gerau/baufortschritt-im-museumsarchiv-in-nauheim/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Neuer „Bienenroboter“ für die Kita in Mainz-Finthen</title>
-      <link>https://byc-news.de/kurznachrichten-mainz/neuer-bienenroboter-fuer-die-kita-in-mainz-finthen/</link>
-      <comments>https://byc-news.de/kurznachrichten-mainz/neuer-bienenroboter-fuer-die-kita-in-mainz-finthen/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 10:49:53 +0000</pubDate>
-      <category>Kurznachrichten Mainz</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112854</guid>
-      <description>&lt;p&gt;Am vorigen Freitag &amp;#xFC;bergab Sozialdezernent Dr. Eckart Lensch an Kitaleiterin Heike Werum und ihre Stellvertreterin, Monica Oliveira, stellvertretend f&amp;#xFC;r alle Kitas in Mainz der st&amp;#xE4;dtischen Kita An den Lehmgruben einen &amp;#x201A;Bienenroboter&amp;#x2018; (BeeBot). Bienenroboter verbinden das Thema sprachliche und digitale Bildung auf spielerische Weise. Die im Fr&amp;#xFC;hjahr 2022 bereitgestellten Mittel der Landeshauptstadt Mainz machen es m&amp;#xF6;glich, [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/kurznachrichten-mainz/neuer-bienenroboter-fuer-die-kita-in-mainz-finthen/"&gt;Neuer &amp;#8222;Bienenroboter&amp;#8220; für die Kita in Mainz-Finthen&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/kurznachrichten-mainz/neuer-bienenroboter-fuer-die-kita-in-mainz-finthen/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Freie Wähler: Joachim Streit fordert Entschuldigung von Malu Dreyer</title>
-      <link>https://byc-news.de/mainz/freie-waehler-joachim-streit-fordert-entschuldigung-von-malu-dreyer/</link>
-      <comments>https://byc-news.de/mainz/freie-waehler-joachim-streit-fordert-entschuldigung-von-malu-dreyer/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 10:36:59 +0000</pubDate>
-      <category>Mainz</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112852</guid>
-      <description>&lt;p&gt;In der Grundsatzaussprache zum Landeshaushalt in der 34. Plenarsitzung am Dienstag (20. Dezember 2022) legte der Vorsitzende der FREIE-W&amp;#xC4;HLER-Landtagsfraktion, Joachim Streit, den Finger gleich in mehrere Wunden. Doch eines war ihm besonders wichtig &amp;#x2013; und das betonte er am Ende seiner Rede ausdr&amp;#xFC;cklich: die Handlungsweise der Landesregierung nach der Flutkatastrophe am 14./15. Juli 2021. F&amp;#xFC;r [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/mainz/freie-waehler-joachim-streit-fordert-entschuldigung-von-malu-dreyer/"&gt;Freie Wähler: Joachim Streit fordert Entschuldigung von Malu Dreyer&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/mainz/freie-waehler-joachim-streit-fordert-entschuldigung-von-malu-dreyer/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Vitamin-D-Mangel führt zu Stimmungstiefs – Heilpraktiker gibt Tipps, wie man sich helfen kann</title>
-      <link>https://byc-news.de/fit-und-gesund/vitamin-d-mangel-fuehrt-zu-stimmungstiefs-heilpraktiker-gibt-tipps-wie-man-sich-helfen-kann/</link>
-      <comments>https://byc-news.de/fit-und-gesund/vitamin-d-mangel-fuehrt-zu-stimmungstiefs-heilpraktiker-gibt-tipps-wie-man-sich-helfen-kann/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 09:03:49 +0000</pubDate>
-      <category>Fit und Gesund</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112111</guid>
-      <description>&lt;p&gt;Der Vitamin-D-Mangel ist in Deutschland ganzj&amp;#xE4;hrig ein wichtiges Thema &amp;#8211; doch insbesondere in den kalten und dunklen Wintermonaten sollte man sich dringend mit ihm auseinandersetzen. Denn es leidet nicht nur die Stimmung, der Mangel kann auch gesundheitliche Folgen nach sich ziehen. &amp;#8222;Jedes Jahr, wenn die Tage k&amp;#xFC;rzer werden, kommen Kunden auf mich zu und bitten [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/fit-und-gesund/vitamin-d-mangel-fuehrt-zu-stimmungstiefs-heilpraktiker-gibt-tipps-wie-man-sich-helfen-kann/"&gt;Vitamin-D-Mangel führt zu Stimmungstiefs &amp;#8211; Heilpraktiker gibt Tipps, wie man sich helfen kann&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/fit-und-gesund/vitamin-d-mangel-fuehrt-zu-stimmungstiefs-heilpraktiker-gibt-tipps-wie-man-sich-helfen-kann/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Posaunenchor spielt an Weihnachten in Ginsheim</title>
-      <link>https://byc-news.de/kurzmeldung-gigu/posaunenchor-spielt-an-weihnachten-in-ginsheim/</link>
-      <comments>https://byc-news.de/kurzmeldung-gigu/posaunenchor-spielt-an-weihnachten-in-ginsheim/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 08:26:49 +0000</pubDate>
-      <category>Kurzmeldung GiGu</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=111932</guid>
-      <description>&lt;p&gt;Am Heiligen Abend spielen in alter Tradition die Bl&amp;#xE4;serinnen und Bl&amp;#xE4;ser in Ginsheim in drei Gruppen um: 17.00 Uhr&amp;#xA0; ev. Kirche &amp;#x2013; Gustavsburger Stra&amp;#xDF;e &amp;#x2013; Philipp-Rauch-Platz 17.20 Uhr&amp;#xA0; Heimatmuseum &amp;#x2013; Anna Seghers/Simone Beauvoir-Stra&amp;#xDF;e &amp;#x2013; Unter der Ruth/Feldbergstra&amp;#xDF;e 17.40 Uhr&amp;#xA0; Harteneckstra&amp;#xDF;e &amp;#x2013; Franz-Liszt/Mainzer Stra&amp;#xDF;e &amp;#x2013; Ulmenstra&amp;#xDF;e 18.00 Uhr&amp;#xA0; alle Gruppen in der Friedrich-Ebert-Stra&amp;#xDF;e Im mainspitzweiten Gottesdienst [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/kurzmeldung-gigu/posaunenchor-spielt-an-weihnachten-in-ginsheim/"&gt;Posaunenchor spielt an Weihnachten in Ginsheim&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/kurzmeldung-gigu/posaunenchor-spielt-an-weihnachten-in-ginsheim/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Müllentsorgung an Weihnachten und zwischen den Jahren im Kreis Mainz-Bingen</title>
-      <link>https://byc-news.de/ingelheim/muellentsorgung-an-weihnachten-und-zwischen-den-jahren-im-kreis-mainz-bingen/</link>
-      <comments>https://byc-news.de/ingelheim/muellentsorgung-an-weihnachten-und-zwischen-den-jahren-im-kreis-mainz-bingen/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 08:26:40 +0000</pubDate>
-      <category>Ingelheim</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112755</guid>
-      <description>&lt;p&gt;Der Abfallwirtschaftsbetrieb des Landkreises informiert, dass in der Woche ab dem 26. Dezember alle Abfuhrtermine einen Tag sp&amp;#xE4;ter gefahren werden. Die Abfuhr findet von Dienstag, 27. Dezember bis einschlie&amp;#xDF;lich Samstag, 31. Dezember 2022 statt. Wertstoffh&amp;#xF6;fe zwischen den Jahren geschlossen Die Wertstoffh&amp;#xF6;fe, Gr&amp;#xFC;nschnittsammelstellen, das Entsorgungszentrum Budenheim sowie die Biomasseanlage in Essenheim sind an allen Feiertagen geschlossen. [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/ingelheim/muellentsorgung-an-weihnachten-und-zwischen-den-jahren-im-kreis-mainz-bingen/"&gt;Müllentsorgung an Weihnachten und zwischen den Jahren im Kreis Mainz-Bingen&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/ingelheim/muellentsorgung-an-weihnachten-und-zwischen-den-jahren-im-kreis-mainz-bingen/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Polizei beschenkt 150 Kinder im St. Marien in Worms</title>
-      <link>https://byc-news.de/alzey-worms/polizei-beschenkt-150-kinder-im-st-marien-in-worms/</link>
-      <comments>https://byc-news.de/alzey-worms/polizei-beschenkt-150-kinder-im-st-marien-in-worms/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 08:26:33 +0000</pubDate>
-      <category>Alzey-Worms</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112780</guid>
-      <description>&lt;p&gt;Weihnachtsstimmung kam auch bei der Inspektionsleiterin Sarah Deutsch auf, die ebenfalls ihre Geschenke in den zweckentfremdeten Polizeibus vor Abfahrt legte. Am Dienstag (20. Dezember 2022) brachten Sascha Blumacher und Anne Venus, stellvertretend f&amp;#xFC;r die Bediensteten der Bundespolizeiinspektion Kaiserslautern, Weihnachtsgeschenke f&amp;#xFC;r insgesamt 150 Kinder und Jugendliche im Alter von 9 Monaten bis 19 Jahren in das [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/alzey-worms/polizei-beschenkt-150-kinder-im-st-marien-in-worms/"&gt;Polizei beschenkt 150 Kinder im St. Marien in Worms&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/alzey-worms/polizei-beschenkt-150-kinder-im-st-marien-in-worms/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Neue Business Fluglinie am Flughafen Frankfurt am Main</title>
-      <link>https://byc-news.de/frankfurt/neue-business-fluglinie-am-flughafen-frankfurt-am-main/</link>
-      <comments>https://byc-news.de/frankfurt/neue-business-fluglinie-am-flughafen-frankfurt-am-main/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 08:26:30 +0000</pubDate>
-      <category>Frankfurt</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112790</guid>
-      <description>&lt;p&gt;Erstmals seit vielen Jahren wird in &amp;#xD6;sterreich wieder eine Passagierfluglinie gegr&amp;#xFC;ndet: Die LILIHILL Group, auch Mehrheitseigent&amp;#xFC;mer des Airport Klagenfurt, investiert in die Internationalisierung und den Tourismus K&amp;#xE4;rntens und l&amp;#xE4;sst LILIAIR abheben. Gestartet wird mit zwei Flugzeugen des Typs CRJ900, die Platz f&amp;#xFC;r 90 Passagiere bieten und maximale Flugplanstabilit&amp;#xE4;t und Verl&amp;#xE4;sslichkeit garantieren. Zu Beginn bietet der [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/frankfurt/neue-business-fluglinie-am-flughafen-frankfurt-am-main/"&gt;Neue Business Fluglinie am Flughafen Frankfurt am Main&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/frankfurt/neue-business-fluglinie-am-flughafen-frankfurt-am-main/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Wichtige Informationen vom Kreis Groß-Gerau zum neuen Bürgergeld</title>
-      <link>https://byc-news.de/gross-gerau/wichtige-informationen-vom-kreis-gross-gerau-zum-neuen-buergergeld/</link>
-      <comments>https://byc-news.de/gross-gerau/wichtige-informationen-vom-kreis-gross-gerau-zum-neuen-buergergeld/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 08:26:26 +0000</pubDate>
-      <category>Groß-Gerau</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112806</guid>
-      <description>&lt;p&gt;Die Einf&amp;#xFC;hrung des B&amp;#xFC;rgergeld-Gesetzes zum 1. Januar 2023 stellt die gravierendste Reform des deutschen Sozialstaats seit 2005 dar. Der Gesetzgeber entwickelt die Grundsicherung f&amp;#xFC;r Arbeitsuchende weiter und passt diese flexibler sowohl auf die Anforderungen des Arbeitsmarkts als auch auf die Bed&amp;#xFC;rfnisse und Lebensumst&amp;#xE4;nde der Leistungsbeziehenden an. Als vorrangig gilt das Ziel, Menschen sorgf&amp;#xE4;ltig zu mobilisieren [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/gross-gerau/wichtige-informationen-vom-kreis-gross-gerau-zum-neuen-buergergeld/"&gt;Wichtige Informationen vom Kreis Groß-Gerau zum neuen Bürgergeld&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/gross-gerau/wichtige-informationen-vom-kreis-gross-gerau-zum-neuen-buergergeld/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Informationen zu den Wochenmärkten an Weihnachten und Silvester in Mainz</title>
-      <link>https://byc-news.de/kurznachrichten-mainz/informationen-zu-den-wochenmaerkten-an-weihnachten-und-silvester-in-mainz/</link>
-      <comments>https://byc-news.de/kurznachrichten-mainz/informationen-zu-den-wochenmaerkten-an-weihnachten-und-silvester-in-mainz/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 08:23:47 +0000</pubDate>
-      <category>Kurznachrichten Mainz</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112836</guid>
-      <description>&lt;p&gt;Aufgrund der diesj&amp;#xE4;hrigen Lage der Wochentage finden alle Wochenm&amp;#xE4;rkte an den gewohnten Markttagen statt. Die Verkaufszeiten sind f&amp;#xFC;r alle M&amp;#xE4;rkte an Heiligabend von 7.00 Uhr bis 12.00 Uhr und an Silvester von 7.00 Uhr bis 13.00 Uhr. Der Hauptmarkt findet wie gewohnt rund um das Areal am Gutenbergplatz (Alte Universit&amp;#xE4;t, Sch&amp;#xF6;fferstra&amp;#xDF;e und Leichhof) statt. Auch [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/kurznachrichten-mainz/informationen-zu-den-wochenmaerkten-an-weihnachten-und-silvester-in-mainz/"&gt;Informationen zu den Wochenmärkten an Weihnachten und Silvester in Mainz&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/kurznachrichten-mainz/informationen-zu-den-wochenmaerkten-an-weihnachten-und-silvester-in-mainz/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Knapp 50 Kilogramm Weißkohl in Ginsheim-Gustavsburg geklaut</title>
-      <link>https://byc-news.de/ginsheim-gustavsburg/knapp-50-kilogramm-weisskohl-in-ginsheim-gustavsburg-geklaut/</link>
-      <comments>https://byc-news.de/ginsheim-gustavsburg/knapp-50-kilogramm-weisskohl-in-ginsheim-gustavsburg-geklaut/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 07:28:36 +0000</pubDate>
-      <category>Ginsheim-Gustavsburg</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112834</guid>
-      <description>&lt;p&gt;Rund 50 Kilogramm Wei&amp;#xDF;kohl wurden am Dienstag (20. Dezember 2022) zum Ziel von zwei Kriminellen. Die T&amp;#xE4;ter hatten auf einem landwirtschaftlichen Feld neben der Ginsheimer Stra&amp;#xDF;e zwischen den beiden Stadtteilen ihr Unwesen getrieben und flei&amp;#xDF;ig das schmackhafte Kraut geerntet. Die Polizei leitete eine Fahndung ein Gl&amp;#xFC;cklicherweise hatten aufmerksame Zeugen die beiden Kohl-Diebe dabei beobachtet und [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/ginsheim-gustavsburg/knapp-50-kilogramm-weisskohl-in-ginsheim-gustavsburg-geklaut/"&gt;Knapp 50 Kilogramm Weißkohl in Ginsheim-Gustavsburg geklaut&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/ginsheim-gustavsburg/knapp-50-kilogramm-weisskohl-in-ginsheim-gustavsburg-geklaut/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Neue Unternehmensleitung bei Boehringer in Ingelheim am Rhein</title>
-      <link>https://byc-news.de/ingelheim/neue-unternehmensleitung-bei-boehringer-in-ingelheim-am-rhein/</link>
-      <comments>https://byc-news.de/ingelheim/neue-unternehmensleitung-bei-boehringer-in-ingelheim-am-rhein/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 02:17:05 +0000</pubDate>
-      <category>Ingelheim</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112832</guid>
-      <description>&lt;p&gt;Boehringer Ingelheim gibt heute bekannt, dass die Gesellschafter Frau Dr. Paola Casarosa und Herrn Shashank Deshpande in die Unternehmensleitung berufen haben. Sie werden die Aufgaben von Herrn Dr. Dr. Michel Pairet, und Herrn Jean Scheftsik de Szolnok &amp;#xFC;bernehmen. Beide haben den Gesellschaftern gegen&amp;#xFC;ber ihren Wunsch zum Ausdruck gebracht, zum Ende des Jahres 2023 in den [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/ingelheim/neue-unternehmensleitung-bei-boehringer-in-ingelheim-am-rhein/"&gt;Neue Unternehmensleitung bei Boehringer in Ingelheim am Rhein&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/ingelheim/neue-unternehmensleitung-bei-boehringer-in-ingelheim-am-rhein/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Überwachungskamera filmt Tätergruppe in Frankfurt – Wer kennt die Personen?</title>
-      <link>https://byc-news.de/frankfurt/ueberwachungskamera-filmt-taetergruppe-in-frankfurt-wer-kennt-die-personen/</link>
-      <comments>https://byc-news.de/frankfurt/ueberwachungskamera-filmt-taetergruppe-in-frankfurt-wer-kennt-die-personen/#respond</comments>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Wed, 21 Dec 2022 02:00:35 +0000</pubDate>
-      <category>Frankfurt</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112817</guid>
-      <description>&lt;p&gt;Vier noch unbekannte T&amp;#xE4;ter sind verd&amp;#xE4;chtig, am 06. Juni 2022, gegen 03:25 Uhr, in der Grusonstra&amp;#xDF;e im Ostend, bei einem Stra&amp;#xDF;enraub einen 33-j&amp;#xE4;hrigen Mann angegriffen zu haben. Die Frankfurter Kriminalpolizei bittet nun (20. Dezember 2022) um Hinweise aus der Bev&amp;#xF6;lkerung. Reizgas verspr&amp;#xFC;ht Bei der Tat bespr&amp;#xFC;hten die Unbekannten den Gesch&amp;#xE4;digten mit Reizgas, stie&amp;#xDF;en ihn zu [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/frankfurt/ueberwachungskamera-filmt-taetergruppe-in-frankfurt-wer-kennt-die-personen/"&gt;Überwachungskamera filmt Tätergruppe in Frankfurt &amp;#8211; Wer kennt die Personen?&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/frankfurt/ueberwachungskamera-filmt-taetergruppe-in-frankfurt-wer-kennt-die-personen/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Zwei weitere Schuhhändler haben Insolvenz angemeldet</title>
-      <link>https://byc-news.de/wirtschaft/zwei-weitere-schuhhaendler-haben-insolvenz-angemeldet/</link>
-      <comments>https://byc-news.de/wirtschaft/zwei-weitere-schuhhaendler-haben-insolvenz-angemeldet/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Tue, 20 Dec 2022 18:15:53 +0000</pubDate>
-      <category>Wirtschaft</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112777</guid>
-      <description>&lt;p&gt;Nachdem der Hamburger Schuhh&amp;#xE4;ndler G&amp;#xF6;rtz bereits im September offiziell Insolvenz angemeldet und ein Sanierungsverfahren eingeleitet hat, folgen nun zwei weitere Schuhh&amp;#xE4;ndler, die ebenfalls ein Schutzschirmverfahren beantragen mussten. Salamander und Klauser Schuhe in der Krise Die beiden betroffenen Unternehmen Salamander und Klauser Schuhe geh&amp;#xF6;ren der Ara AG mit Sitz in Nordrhein-Westfalen an. Um die beiden Traditionsunternehmen [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/wirtschaft/zwei-weitere-schuhhaendler-haben-insolvenz-angemeldet/"&gt;Zwei weitere Schuhhändler haben Insolvenz angemeldet&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/wirtschaft/zwei-weitere-schuhhaendler-haben-insolvenz-angemeldet/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Großeinsatz der Polizei in einer Bankfiliale in Mainz-Finthen</title>
-      <link>https://byc-news.de/mainz/grosseinsatz-der-polizei-in-einer-bankfiliale-in-mainz-finthen/</link>
-      <comments>https://byc-news.de/mainz/grosseinsatz-der-polizei-in-einer-bankfiliale-in-mainz-finthen/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Tue, 20 Dec 2022 13:40:48 +0000</pubDate>
-      <category>Mainz</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112786</guid>
-      <description>&lt;p&gt;Am sp&amp;#xE4;ten Montagabend (19. Dezember 2022) kam es gegen 22:30 Uhr zu einem Gro&amp;#xDF;einsatz der Polizei im Vorraum einer Bankfiliale in der Poststra&amp;#xDF;e im Mainzer Stadtteil Finthen. Ausgel&amp;#xF6;st wurde der Polizeieinsatz von insgesamt sechs jungen M&amp;#xE4;nnern. Die Polizei schickte sieben Streifenwagen und zwei Diensthundef&amp;#xFC;hrer zur Einsatzstelle Anwohnern waren mehrere Personen in dem Vorraum der Bankfiliale [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/mainz/grosseinsatz-der-polizei-in-einer-bankfiliale-in-mainz-finthen/"&gt;Großeinsatz der Polizei in einer Bankfiliale in Mainz-Finthen&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/mainz/grosseinsatz-der-polizei-in-einer-bankfiliale-in-mainz-finthen/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>151.000 Euro für die Stadt Alzey</title>
-      <link>https://byc-news.de/alzey-worms/151-000-euro-fuer-die-stadt-alzey/</link>
-      <comments>https://byc-news.de/alzey-worms/151-000-euro-fuer-die-stadt-alzey/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Tue, 20 Dec 2022 11:04:05 +0000</pubDate>
-      <category>Alzey-Worms</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112775</guid>
-      <description>&lt;p&gt;Die Stadt Alzey erh&amp;#xE4;lt weitere 151.000 Euro aus dem Bund-L&amp;#xE4;nder-Programm &amp;#x201E;Sozialer Zusammenhalt&amp;#x201C;. Das hat Innenminister Michael Ebling mitgeteilt. Gef&amp;#xF6;rdert wird die laufende Entwicklung des Areals &amp;#x201E;Alzeyer Osten&amp;#x201C;. &amp;#x201E;Die Stadt m&amp;#xF6;chte die finanziellen Mittel haupts&amp;#xE4;chlich zur Vorbereitung geplanter Ma&amp;#xDF;nahmen verwenden. So soll ein Neuordnungskonzept zur Umgestaltung der Dautenheimer Landstra&amp;#xDF;e/Dr. Georg-Durst-Stra&amp;#xDF;e erstellt werden. Zudem sind die Mittel [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/alzey-worms/151-000-euro-fuer-die-stadt-alzey/"&gt;151.000 Euro für die Stadt Alzey&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/alzey-worms/151-000-euro-fuer-die-stadt-alzey/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Dringender Appell der Stadtverwaltung Bad Kreuznach an die Bürger</title>
-      <link>https://byc-news.de/bad-kreuznach/dringender-appell-der-stadtverwaltung-bad-kreuznach-an-die-buerger/</link>
-      <comments>https://byc-news.de/bad-kreuznach/dringender-appell-der-stadtverwaltung-bad-kreuznach-an-die-buerger/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Tue, 20 Dec 2022 10:44:54 +0000</pubDate>
-      <category>Bad Kreuznach</category>
-      <category>top</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112771</guid>
-      <description>&lt;p&gt;Feuerwerk geh&amp;#xF6;rt f&amp;#xFC;r viele Menschen an Silvester dazu. Doch das bunte Spektakel ger&amp;#xE4;t zunehmend in Kritik. Die Stadt Bad Kreuznach wird kein Verbot f&amp;#xFC;r das Abbrennen von Feuerwerk aussprechen, bittet jedoch alle B&amp;#xFC;rgerinnen und B&amp;#xFC;rger um umsichtiges Verhalten zum Jahreswechsel. &amp;#x201E;Auch viele Haus- und Wildtiere leiden unter der lauten B&amp;#xF6;llerei&amp;#x201C; &amp;#x201E;Wir m&amp;#xF6;chten die B&amp;#xFC;rgerinnen und [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/bad-kreuznach/dringender-appell-der-stadtverwaltung-bad-kreuznach-an-die-buerger/"&gt;Dringender Appell der Stadtverwaltung Bad Kreuznach an die Bürger&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/bad-kreuznach/dringender-appell-der-stadtverwaltung-bad-kreuznach-an-die-buerger/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Neues Mehrzweckboot für die Berufsfeuerwehr Wiesbaden</title>
-      <link>https://byc-news.de/wiesbaden/neues-mehrzweckboot-fuer-die-berufsfeuerwehr-wiesbaden/</link>
-      <comments>https://byc-news.de/wiesbaden/neues-mehrzweckboot-fuer-die-berufsfeuerwehr-wiesbaden/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Tue, 20 Dec 2022 10:06:14 +0000</pubDate>
-      <category>Wiesbaden</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112764</guid>
-      <description>&lt;p&gt;Oberb&amp;#xFC;rgermeister Gert-Uwe Mende hat am Montag (19. Dezember 2022) mit Vertretern der Berufsfeuerwehr Wiesbaden und der Deutschen Lebens-Rettungs-Gesellschaft (DLRG) ein neues Mehrzweckboot der Berufsfeuerwehr und den erweiterten DLRG-Bootsanleger am Rhein offiziell eingeweiht. Das Boot aus dem Jahr 1991 wurde durch ein neues Mehrzweckboot ersetzt &amp;#x201E;Wir haben in die schnelle Rettung von Menschen investiert und die [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/wiesbaden/neues-mehrzweckboot-fuer-die-berufsfeuerwehr-wiesbaden/"&gt;Neues Mehrzweckboot für die Berufsfeuerwehr Wiesbaden&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/wiesbaden/neues-mehrzweckboot-fuer-die-berufsfeuerwehr-wiesbaden/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Steuerberater aus dem Kreis Groß-Gerau verhaftet – Betrug in 11 besonders schweren Fällen</title>
-      <link>https://byc-news.de/gross-gerau/steuerberater-aus-dem-kreis-gross-gerau-verhaftet-betrug-in-11-besonders-schweren-faellen/</link>
-      <comments>https://byc-news.de/gross-gerau/steuerberater-aus-dem-kreis-gross-gerau-verhaftet-betrug-in-11-besonders-schweren-faellen/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Tue, 20 Dec 2022 09:48:54 +0000</pubDate>
-      <category>Groß-Gerau</category>
-      <category>top</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112745</guid>
-      <description>&lt;p&gt;Am Montag (19. Dezember 2022) wurde ein Steuerberater aus dem Kreis Gro&amp;#xDF;-Gerau von der Generalstaatsanwaltschaft Frankfurt am Main und dem Polizeipr&amp;#xE4;sidium S&amp;#xFC;dhessen festgenommen. Dem zugrunde liegt ein Haftbefehl des Amtsgerichts Gro&amp;#xDF;-Gerau wegen des Verdachts des Subventionsbetrugs in elf besonders schweren F&amp;#xE4;llen. Auszahlung von &amp;#xDC;berbr&amp;#xFC;ckungshilfen in H&amp;#xF6;he von 600.000 Euro Der Beschuldigte steht im Verdacht, in [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/gross-gerau/steuerberater-aus-dem-kreis-gross-gerau-verhaftet-betrug-in-11-besonders-schweren-faellen/"&gt;Steuerberater aus dem Kreis Groß-Gerau verhaftet &amp;#8211; Betrug in 11 besonders schweren Fällen&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/gross-gerau/steuerberater-aus-dem-kreis-gross-gerau-verhaftet-betrug-in-11-besonders-schweren-faellen/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-    <item>
-      <title>Clemens Hoch: Finanzielle Unterstützung für Kliniken im Ahrtal</title>
-      <link>https://byc-news.de/ueberregional/clemens-hoch-finanzielle-unterstuetzung-fuer-kliniken-im-ahrtal/</link>
-      <comments>https://byc-news.de/ueberregional/clemens-hoch-finanzielle-unterstuetzung-fuer-kliniken-im-ahrtal/#respond</comments>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Tue, 20 Dec 2022 08:39:50 +0000</pubDate>
-      <category>Überregional</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=112743</guid>
-      <description>&lt;p&gt;Die Kliniken im Ahrtal wurden von der Flut hart getroffen. Die Zerst&amp;#xF6;rung war so gro&amp;#xDF;, dass eine Versorgung der Patientinnen und Patienten vor Ort zeitweise nicht m&amp;#xF6;glich war. Zum vollst&amp;#xE4;ndigen Wiederaufbau und damit zur Gew&amp;#xE4;hrleistung der Gesundheitsversorgung der Menschen ben&amp;#xF6;tigen die Krankenh&amp;#xE4;user im Ahrtal finanzielle Unterst&amp;#xFC;tzung. Diese erhalten sie durch das Land Rheinland-Pfalz aus Mitteln [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/ueberregional/clemens-hoch-finanzielle-unterstuetzung-fuer-kliniken-im-ahrtal/"&gt;Clemens Hoch: Finanzielle Unterstützung für Kliniken im Ahrtal&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-      <wfw:commentRss>https://byc-news.de/ueberregional/clemens-hoch-finanzielle-unterstuetzung-fuer-kliniken-im-ahrtal/feed/</wfw:commentRss>
-      <slash:comments>0</slash:comments>
-    </item>
-  </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Neuste Artikel von Wochenspiegel</title>
+  <updated>2022-12-23T11:14:23+01:00</updated>
+  <generator version="1.7920.5.7851">JJK Verlagsportal</generator>
+  <id>https://www.wochenspiegellive.de/fileadmin/feeds/artikel.atom</id>
+  <link rel="self" href="https://www.wochenspiegellive.de/fileadmin/feeds/artikel.atom"/>
+  <link href="https://www.wochenspiegellive.de" rel="alternate"/>
+  <icon>https://www.wochenspiegellive.de/fileadmin/images/icons/apple-touch-icon-precomposed.png</icon>
+  <entry>
+    <title>Kleinkind verletzt: Betrunkene Mutter verursacht Verkehrsunfall</title>
+    <id>tag:www.wochenspiegellive.de,2021-08-10:/artikel/html/562169</id>
+    <updated>2022-12-22T09:06:35+01:00</updated>
+    <author>
+      <name>Robert Syska</name>
+    </author>
+    <link href="https://www.wochenspiegellive.de/bad-kreuznach/artikel/kleinkind-verletzt-betrunkene-mutter-verursacht-verkehrsunfall" rel="alternate"/>
+    <summary type="text">
+Sommerloch. Bei einem Verkehrsunfall auf der K50 zwischen Sommerloch und Wallhausen wurde am Mittwoch vergangener Woche ein dreijähriges Mädchen verletzt.
+</summary>
+    <content type="html">&lt;p&gt;&lt;P&gt;&lt;STRONG&gt;Sommerloch.&lt;/STRONG&gt; Bei einem Verkehrsunfall auf der K50 zwischen Sommerloch und Wallhausen wurde am Mittwoch vergangener Woche ein dreijähriges Mädchen verletzt.&lt;/P&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="Ein Atemalkoholtest bei der 35-jährigen Unfallverursacherin ergab einen Wert von 2,3 Promille." src="https://www.wochenspiegellive.de/fileadmin/user_upload/import/artikel/69/2169/562169_Streifenwagen.jpg" /&gt;&lt;/p&gt;&lt;P&gt;Ihre Mutter hatte in einer Rechtskurve die Kontrolle über ihren Wagen verloren, kam von der Fahrbahn ab und landete im Straßengraben. Das Mädchen, das im Kindersitz auf der Rückbank saß, kam mit einem Hämatom an der Stirn davon, die Mutter verletzte sich an der Schulter. Die Unfallursache war schnell geklärt: Ein Atemalkoholtest durch die Polizei ergab einen Wert von 2,30 Promille. Mutter und Kind wurden zur Behandlung ins Krankenhaus gebracht Das Unfallfahrzeug erlitt einen Totalschaden. Der Führerschein der 35-Jährigen wurde sichergestellt. Sie erwartet nun ein Strafverfahren und der Verlust der Fahrerlaubnis. Das Mädchen wurde nach der Behandlung in die Obhut des Vaters gegeben.&lt;/P&gt;</content>
+    <category label="Allgemein" term="allgemein"/>
+    <category label="Nachrichten" term="nachrichten"/>
+  </entry>
+  <entry>
+    <title>Seniorin stirbt nach Sturz / Polizei sucht Zeugen</title>
+    <id>tag:www.wochenspiegellive.de,2021-08-10:/artikel/html/562076</id>
+    <updated>2022-12-21T15:46:47+01:00</updated>
+    <author>
+      <name>Robert Syska</name>
+    </author>
+    <link href="https://www.wochenspiegellive.de/bad-kreuznach/artikel/seniorin-stirbt-nach-sturz-polizei-sucht-zeugen" rel="alternate"/>
+    <summary type="text">
+Bad Kreuznach. Sturz mit tragischen Folgen: Wie die Polizei mitteilte, ist bereits am vergangenen Donnerstag eine 82-Jährige in der Kinscherfstraße gestürzt.
+</summary>
+    <content type="html">&lt;p&gt;&lt;P&gt;Bad Kreuznach. Sturz mit tragischen Folgen: Wie die Polizei mitteilte, ist bereits am vergangenen Donnerstag eine 82-Jährige&amp;nbsp;in der Kinscherfstraße gestürzt.&lt;/P&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="Die Polizei sucht Zeugen, die den folgenschweren Sturz der 82-jährigen Seniorin in der Kinscherfstraße beobachtet haben." src="https://www.wochenspiegellive.de/fileadmin/user_upload/import/artikel/76/2076/562076_pixabay__Krankenwagen1__39.jpg" /&gt;&lt;/p&gt;&lt;P&gt;Die Frau zog sich dabei schwere Kopfverletzungen zu und wurde in ein Krankenhaus in Bad Kreuznach eingeliefert. Aufgrund der Schwere der Verletzungen wurde die 82-Jährige allerdings kurz darauf&amp;nbsp;in eine Mainzer Klinik verlegt, wo sie am vergangenen Sonntag ihren Verletzungen erlag.&lt;/P&gt;&lt;P&gt;Weil die Frau in einem Mainzer Krankenhaus verstarb, ermittelt nun die dortige Kriminalpolizei, ob es Anhaltspunkte für ein Fremdverschulden gibt - dafür bittet die Kripo um Hinweise aus der Bevölkerung: Wer den Sturz in der Kinscherfstraße am Donnerstag, 15. Dezember, gegen 10.15 Uhr vormittags, beobachtet hat und sachdienliche Hinweise geben kann, wird deshalb gebeten, sich über Telefon 0 61 31 / 65 36 33 mit der Kriminalpolizei Mainz in Verbindung zu setzen. Hinweise können auch via E-Mail an die Polizei in Mainz übermittelt werden. Nutzen Sie dafür bitte die Adresse: &lt;A&gt;kdmainz@polizei.rlp.de&lt;/A&gt;&amp;nbsp;&lt;/P&gt;</content>
+    <category label="Allgemein" term="allgemein"/>
+    <category label="Nachrichten" term="nachrichten"/>
+  </entry>
+  <entry>
+    <title>Was ändert sich für Bezieher durch das Bürgergeld?</title>
+    <id>tag:www.wochenspiegellive.de,2021-08-10:/artikel/html/561980</id>
+    <updated>2022-12-20T15:40:51+01:00</updated>
+    <author>
+      <name>Kai Brückner</name>
+    </author>
+    <link href="https://www.wochenspiegellive.de/bad-kreuznach/artikel/was-aendert-sich-fuer-bezieher-durch-das-buergergeld" rel="alternate"/>
+    <summary type="text">
+Kreis Bad Kreuznach. Aus "Hartz IV" wird 2023 das "Bürgergeld". Was sich darurch für Bezieher ändert, das klärt der WochenSpiegel im Jobcenter-Interview.
+</summary>
+    <content type="html">&lt;p&gt;&lt;P&gt;&lt;STRONG&gt;Kreis Bad Kreuznach.&lt;/STRONG&gt; Aus "Hartz IV" wird 2023 das "Bürgergeld". Was sich darurch für Bezieher ändert, das klärt&amp;nbsp;der WochenSpiegel im Jobcenter-Interview.&lt;/P&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="Was ändert sich 2023 durchs Bürgergeld?" src="https://www.wochenspiegellive.de/fileadmin/user_upload/import/artikel/80/1980/561980_markus-spiske-pl_HXNkyFmw-unsplash_01.jpg" /&gt;&lt;/p&gt;&lt;P&gt;Ab 1. Januar 2023 werden die durchs Jobcenter gemäß Sozialgesetzbuch II (SGB II) ausgezahlten Leistungen "Bürgergeld" heißen. Der ungeliebte Begriff "Hartz IV" gehört damit der Vergangenheit an. Bei Alleinstehenden steigt mit der Einführung des Bürgergeldes der Regelsatz von bisher 449 auf 502 Euro; Paare bekommen künftig 451 Euro statt bislang 404 Euro pro Person; für Kinder und Jugendliche werden dann je nach Alter 318 oder 348 oder 420 Euro ausgezahlt. Für das Jobcenter Bad Kreuznach, das derzeit rund 10.500 Kunden betreut, ändern sich mit der Einführung des Bürgergeldes auch andere Vorgaben und Regeln, die künftig umzusetzen und anzuwenden sein werden. Neu sind die Heizkostenzuschüsse, die der Staat auch Haushalten gewähren will, wenn diese nur einen Monat lang Anspruch auf Bürgergeld haben. Der "Wochenspiegel Bad Kreuznach" sprach darüber mit Bruno Eckes und Hans-Jörg Schnadthorst, den Geschäftsführern des Jobcenters.&lt;/P&gt;&lt;P&gt;&amp;nbsp;&lt;/P&gt;&lt;P&gt;&lt;STRONG&gt;Wie werden die neuen Regelsätze des Bürgergeldes durch das Jobcenter kurzfristig umgesetzt?&lt;/STRONG&gt;&lt;/P&gt;&lt;P&gt;Eckes: Die höheren Regelsätze, die mit der Einführung des Bürgergeldes gelten, werden automatisch berücksichtigt und angewiesen, schon bei der Januar-Leistung, die Ende Dezember 2022 überwiesen wird. Das läuft genauso wie bei früheren Erhöhungen der Regelsätze nach SGB II. Bei den vollautomatisch erstellten Bescheiden kann es aber in Einzelfällen dazu kommen, dass diese Anpassung nicht erfolgt. Das wird in einer Fehlerliste vermerkt, auf deren Grundlage wir den Betroffenen noch im Januar die Erhöhung als Nachzahlung überweisen werden. Es wird also niemand ohne Geld dastehen.&lt;/P&gt;&lt;P&gt;&amp;nbsp;&lt;/P&gt;&lt;P&gt;&lt;STRONG&gt;Welche Regelung hat die Bundesregierung für Übernahme gestiegener Heizkosten getroffen?&lt;/STRONG&gt;&lt;/P&gt;&lt;P&gt;Schnadthorst: Sofern die gleiche Menge an Heizenergie verbraucht wurde wie im Vorjahr und wenn der Vorjahres-Verbrauch angemessen war, dann gilt diese Verbrauchsmenge auch in diesem Jahr als angemessen. Wenn unsere Kunden für die gleiche Energiemenge nun mehr bezahlen müssen, erstatten wir den höheren Preis. Wichtig ist: Nicht der Preis ist dabei maßgeblich, sondern die Menge der verbrauchten Heizenergie. Das bedeutet: Eine höhere Heizkostenrechnung bei gleichbleibendem Verbrauch wird auch im neuen Jahr durch das Jobcenter beziehungsweise den Staat finanziert.&lt;/P&gt;&lt;P&gt;&amp;nbsp;&lt;/P&gt;&lt;P&gt;&lt;STRONG&gt;2023 können auch Menschen, die bisher noch nicht Kunden des Jobcenters waren, eine Beihilfe zu ihren Heizkosten bekommen. Wie funktioniert das?&lt;/STRONG&gt; &lt;/P&gt;&lt;P&gt;Eckes: Viele Menschen, die keine laufende Hilfe vom Jobcenter bekommen, haben derzeit Probleme, ihre Heizkosten zu bezahlen. Um die Heizkostennachzahlung zu begleichen oder Brennstoff zu beschaffen, können sie beim Jobcenter so etwas wie eine einmalige Beihilfe zu ihren Heizkosten beantragen. Bitte beachten! Der entsprechende Antrag kann innerhalb von drei Monaten nach Fälligkeit der Heizkostenzahlung gestellt werden. Wir prüfen dann, ob ein Anspruch auf Leistung wegen einer höheren Nachzahlung oder wegen höherer Brennstoffkosten besteht. Allerdings müssen wir dabei das Einkommen prüfen. Außerdem darf der Antragsteller als Einzelperson nicht mehr als 15.000 Euro Vermögen haben. &lt;/P&gt;</content>
+    <category label="Aus der Region" term="aus-der-region"/>
+    <category label="Nachrichten" term="nachrichten"/>
+  </entry>
+  <entry>
+    <title>SUV zerstört Brückengeländer - Wagen verklemmt sich</title>
+    <id>tag:www.wochenspiegellive.de,2021-08-10:/artikel/html/561774</id>
+    <updated>2022-12-20T14:52:24+01:00</updated>
+    <author>
+      <name>Kai Brückner</name>
+    </author>
+    <link href="https://www.wochenspiegellive.de/bad-kreuznach/artikel/suv-zerstoert-brueckengelaender" rel="alternate"/>
+    <summary type="text">Hargesheim. Glück im Unglück: Bei einem Unfall in Hargesheim schleuderte ein Auto in ein Brückengeländer - das zum Glück den Sturz des Wagens verhinderte.</summary>
+    <content type="html">&lt;p&gt;&lt;STRONG&gt;Hargesheim.&lt;/STRONG&gt; Glück im Unglück: Bei einem Unfall in Hargesheim schleuderte ein Auto in ein Brückengeländer - das zum Glück den Sturz des Wagens verhinderte.&lt;/p&gt;&lt;p&gt;&lt;img alt="In Hargesheim schleudert ein SUV auf einer Brücke in ein Geländer." src="https://www.wochenspiegellive.de/fileadmin/user_upload/import/artikel/74/1774/561774_2_02.jpg" /&gt;&lt;/p&gt;&lt;P&gt;Spektakulärer Unfall am vergangenen Samstagnachmittag in Hargesheim: Eine Autofahrerin kommt im Kurvenbereich des Ortseingangs von der Fahrbahn ab und prallt gegen ein Brückengeländer. Die stabile Stahlkonstruktion verhindert, dass der SUV in den Gräfenbach stürzte. Die Besatzung eines DRK-Rettungswagens kümmert sich um die Verletzte, die das Fahrzeug selbstständig verlassen kann. Aufwändiger gestaltet sich die Bergung des Fahrzeugs, da das linke Vorderrad im Geländer feststeckt. Mit einem Trennschleifer und Spreizer werden die Stahlstreben durchtrennt. Mit den Seilwinden des Abschleppfahrzeugs und des Rüdesheimer Rüstwagens&amp;nbsp;werden Fahrzeug und Geländerknäuel anschließend auseinander gezogen. In Absprache mit Hargesheims Ortsbürgermeisters Heiko Grün wird der Gefahrenbereich anschließend&amp;nbsp;mit Warnbaken abgesichert.&lt;/P&gt;</content>
+    <category label="Aus der Region" term="aus-der-region"/>
+    <category label="Nachrichten" term="nachrichten"/>
+  </entry>
+  <entry>
+    <title>Kampf dem illegalen Müll: Stadt sucht Dreck-weg-Botschafter</title>
+    <id>tag:www.wochenspiegellive.de,2021-08-10:/artikel/html/561854</id>
+    <updated>2022-12-20T08:49:43+01:00</updated>
+    <author>
+      <name>Robert Syska</name>
+    </author>
+    <link href="https://www.wochenspiegellive.de/bad-kreuznach/artikel/kampf-dem-illegalen-muell-stadt-sucht-dreck-weg-botschafter" rel="alternate"/>
+    <summary type="text">
+Bad Kreuznach. Mit einer Plakataktion will die Verwaltung gegen illegale Müllecken in der Stadt vorgehen. Dafür werden nun Dreck-weg-Botschafter gesucht.
+</summary>
+    <content type="html">&lt;p&gt;&lt;P&gt;&lt;STRONG&gt;Bad Kreuznach.&lt;/STRONG&gt; Mit einer Plakataktion will die Verwaltung gegen illegale Müllecken in der Stadt vorgehen. Dafür werden nun Dreck-weg-Botschafter gesucht.&lt;/P&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="Nicht nur Bürgermeister Thomas Blechschmidt (r.) und Hansjörg Rehbein stinken die vielen illegalen Müllablagerungen im Stadtgebiet von Bad Kreuznach gewaltig." src="https://www.wochenspiegellive.de/fileadmin/user_upload/import/artikel/54/1854/561854_SaubereStadt_01.jpg" /&gt;&lt;/p&gt;&lt;P&gt;&lt;EM&gt;von unserem Mitarbeiter Dieter Stöck&lt;/EM&gt;&lt;/P&gt;&lt;P&gt;"Es stinkt gewaltig" oder im wahrsten Sinne des Wortes: "Es stinkt zum Himmel". Illegal abgeladener Müll in der Stadt belastet immer stärker nicht nur die Mitarbeiter des Bauhofs, sondern auch die Stadtkasse, zurzeit mit rund 345.000 Euro pro Jahr - Tendenz steigend. "Das geht zu Lasten des Steuerzahlers, denn die Kosten werden aus der Grundsteuer finanziert", erläutert Bürgermeister Thomas Blechschmidt und zeigt den Umweltsündern, die sich nicht an das Abfallbeseitigungssystem halten, die rote Karte. Noch etwas ärgert den Bürgermeister und Kämmerer: "Müllentsorgung ist eigentlich Sache des Kreises, dennoch zahlt die Stadt alles".&lt;/P&gt;&lt;H3&gt;"Die Stadt muss sich fremdschämen!"&lt;/H3&gt;&lt;P&gt;Blechschmidt weiß: Die Bürger in Bad Kreuznach halten sich zu 90 bis 95 Prozent an die Regeln. Dennoch müsse die Zahl der Müll-Sünder von 5 bis 10 Prozent mehr in den Fokus genommen werden. "Tagtäglich halten sich Besucher und Kurgäste in Bad Kreuznach auf. Die Stadt muss sich fremdschämen!", stellt Blechschmidt mit Blick auf die Müllproblematik fest.&lt;/P&gt;&lt;P&gt;Immer wieder anzutreffende "Dreckecken" sind schnell aufgezählt. Diese sind beispielsweise in der Historischen Neustadt leicht zu finden. So richtig in ärgerliche Fahrt kommen die mit der Abfuhr beauftragten Männer, wenn es um neuralgische Punkte wie die Leitergasse geht. Zugemüllt wird mit Vorliebe auch am Neuruppiner- und Bourger Platz. Die Täter sind sogar oft bekannt, aber sie können nicht so ohne Weiteres belangt werden. Der einfachste Weg wäre, so leuchtet es zunächst ein, rechtliche Schritte einzuleiten. "Doch bei Verfahren muss der Nachweis geführt werden, dass die betreffende Person auch tatsächlich den Unrat abgelegt hat, das ist sehr schwierig", so der Bürgermeister. Was tun? Zur Überwachung im Stadtgebiet Videokameras an den besonders betroffenen Stellen installieren, das "geht wegen des Datenschutzes im öffentlichen Raum nicht", sagt der Verwaltungsmann.&lt;/P&gt;&lt;P&gt;Um die Vermüllung in den Griff zu bekommen, sucht die Stadt nun zusammen mit Hansjörg Rehbein, der sich jüngst bei einer "Stadtrundfahrt" um fünf Uhr morgens selbst ein Bild von der Vielzahl der illegalen Müllablagestellen gemacht hat, und Georg Bürger vom Bauhof nach brauchbaren Lösungen. Wie soll vorgegangen werden? Die Idee ist, zunächst mit einem Informationsstand zur Müllproblematik auf dem Kornmarkt zu starten und auf eine breite Unterstützung aus den Reihen der Bevölkerung zu hoffen. Im kommenden Jahr will die Stadt an neuralgischen Stellen Plakate mit mehrsprachigen Texten aufstellen. "Wir brauchen dafür Botschafter für eine saubere Stadt, die mit ihrem Namen und ihrem Foto klarstellen: So geht es nicht weiter!", hofft Bürgermeister Blechschmidt auf die Unterstützung und Teilnahme vieler Bürgerinnen und Bürger. Wer sich in dieser Form als Dreck-weg-Botschafter engagieren will, kann sein Porträtfoto mit einem kurzen Text und Einverständniserklärung an hansjoerg.rehbein@bad-kreuznach.de mailen. Die Fotos werden zusammenfasst und auf Plakaten veröffentlicht. &lt;/P&gt;&lt;H4&gt;Gut zu wissen:&lt;/H4&gt;&lt;UL&gt;&lt;LI&gt;Georg Bürgers Bauhofmannschaft ist quasi permanent im Einsatz um den Dreck, den Personen in der Stadt an allen und Ecken unerlaubt wegwerfen und abladen, zu beseitigen. Im vergangenen Jahr kostete die Entsorgung des widerrechtlich abgelagerten Mülls (circa 240 Tonnen) rund 345 000 Euro. Geld, das nicht in die Gebührenrechnung miteinfließt und somit aus der Stadtkasse finanziert werden muss.&lt;/LI&gt;&lt;LI&gt;Wer sich bei der Plakataktion engagieren will, kann sein Porträtfoto mit einem kurzen Text und Einverständniserklärung an hansjoerg.rehbein@bad-kreuznach.de mailen.&lt;/LI&gt;&lt;/UL&gt;</content>
+    <category label="Allgemein" term="allgemein"/>
+    <category label="Nachrichten" term="nachrichten"/>
+  </entry>
+  <entry>
+    <title>Erster Innovationspreis Weintourismus für "50bottles"</title>
+    <id>tag:www.wochenspiegellive.de,2021-08-10:/artikel/html/561417</id>
+    <updated>2022-12-19T14:12:21+01:00</updated>
+    <author>
+      <name>Robert Syska</name>
+    </author>
+    <link href="https://www.wochenspiegellive.de/bad-kreuznach/artikel/erster-innovationspreis-weintourismus-fuer-50bottles" rel="alternate"/>
+    <summary type="text">
+Landkreis Bad Kreuznach. Christina Modes-Henkel hat mit dem Konzept »50bottles« den in diesem Jahr erstmals ausgelobten Innovationspreis Weintourismus erhalten.
+</summary>
+    <content type="html">&lt;p&gt;&lt;P&gt;&lt;STRONG&gt;Landkreis Bad Kreuznach.&lt;/STRONG&gt; Christina Modes-Henkel hat mit dem Konzept »50bottles« den in diesem Jahr erstmals ausgelobten Innovationspreis Weintourismus erhalten.&lt;/P&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="Premiere: Der erste Innovationspreis Weintourismus geht an Christina Modes-Henkel." src="https://www.wochenspiegellive.de/fileadmin/user_upload/import/artikel/17/1417/561417_DickesModesHenkelLorenz_02.jpg" /&gt;&lt;/p&gt;&lt;P&gt;Der Innovationspreis wird für innovative und kreative Ideen vergeben, die den Weintourismus an der Nahe voranbringen. Über die Vergabe entscheidet eine 14-köpfige Jury, der unter anderem Naheland Touristik-Geschäftsführerin Katja Hilt, Victoria Krings von Weinland Nahe und Vertreterinnen und Vertreter von DLR, Landwirtschaftskammer und der Kreistagsfraktionen angehören.&lt;/P&gt;&lt;P&gt;Das preisgekrönte Konzept »50bottles« steht für eine Veranstaltung, zu der jeder Teilnehmer ein bis zwei Flaschen seines bevorzugten Weins mitbringt und diese dann zusammen mit den anderen Teilnehmern verkostet. Beworben und vernetzt werden die Events durch eine eigene Homepage, aber auch auf Instagram, Facebook und Youtube. Als Location dienen dabei wechselnde Weinberge. »Diese Idee spricht nicht nur alle Altersgruppen an, sondern hat ein enormes regionales Vermarktungspotenzial und bildet Netzwerke in andere Regionen«, lobte Landrätin Bettina Dickes die den Vorsitz der Preisjury innehat. Der Innovationspreis, der auf eine Initiative des CDU-Landtagsabgeordneten Dr. Helmut Martin zurückgeht, soll soll nun auch in den kommenden Jahren ausgeschrieben werden.&lt;/P&gt;</content>
+    <category label="Wirtschaft" term="wirtschaft-1"/>
+    <category label="Nachrichten" term="nachrichten"/>
+  </entry>
+  <entry>
+    <title>60 Jahre Partnerschaft: OB Letz reist zum Antrittsbesuch nach Bourg-en-Bresse</title>
+    <id>tag:www.wochenspiegellive.de,2021-08-10:/artikel/html/561401</id>
+    <updated>2022-12-17T08:00:02+01:00</updated>
+    <author>
+      <name>Robert Syska</name>
+    </author>
+    <link href="https://www.wochenspiegellive.de/bad-kreuznach/artikel/60-jahre-partnerschaft-ob-letz-reist-zum-antrittsbesuch-nach-bourg-en-bresse" rel="alternate"/>
+    <summary type="text">
+Bad Kreuznach. Oberbürgermeister Emanuel Letz ist im Dezember zum Antrittsbesuch in Bad Kreuznachs französische Partnerstadt Bourg-en-Bresse gereist.
+</summary>
+    <content type="html">&lt;p&gt;&lt;P&gt;&lt;STRONG&gt;Bad Kreuznach.&lt;/STRONG&gt; Oberbürgermeister Emanuel Letz ist im Dezember zum Antrittsbesuch in Bad Kreuznachs französische Partnerstadt Bourg-en-Bresse gereist.&lt;/P&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="Bürgermeister Jean-François Debat begrüßt seinen Amtskollegen Emanuel Letz." src="https://www.wochenspiegellive.de/fileadmin/user_upload/import/artikel/01/1401/561401_Antrittsbesuch.jpg" /&gt;&lt;/p&gt;&lt;P&gt;Begrüßt wurde er dort von seinem Amtskollegen Jean-François Debat. Begleitet wurde Letz unter anderem von Christine Simmich, bei der Stadtverwaltung zuständig für internationale Beziehungen und Schlosspark-Museumsleiter Marco van Bel. Auf dem Besuchsprogamm standen eine Stadtbesichtigung, Kultur, Begegnung und Kulinarisches. Während der dreitägigen Reise besichtigte Letz das ehemalige Kloster Brou und das neue Konservatorium. Gearbeitet wurde natürlich auch: Im Rahmen einer gemeinsamen Sitzung besprachen die beiden Delegationen die künftige Zusammenarbeit, insbesondere die Feierlichkeiten zum 60-jährigen Bestehen der Partnerschaft der beiden Städte, die vom 5. bis 8. Oktober des kommenden Jahres in Bourg-en-Bresse geplant sind. In Bad Kreuznach sind dazu Ausstellungen geplant. „Die Pflege unserer Städtepartnerschaften liegt mir sehr am Herzen. Daher war es mir ein Anliegen, schnellstmöglich zu unseren Freunden nach Bourg-en-Bresse zu fahren, um sie persönlich kennenzulernen«, so OB Letz.&lt;/P&gt;</content>
+    <category label="Allgemein" term="allgemein"/>
+    <category label="Nachrichten" term="nachrichten"/>
+  </entry>
+  <entry>
+    <title>Statt Lametta: Bunte Klimabänder für den Weihnachtsbaum</title>
+    <id>tag:www.wochenspiegellive.de,2021-08-10:/artikel/html/561436</id>
+    <updated>2022-12-16T00:00:03+01:00</updated>
+    <author>
+      <name>Robert Syska</name>
+    </author>
+    <link href="https://www.wochenspiegellive.de/bad-kreuznach/artikel/statt-lametta-bunte-klimabaender-fuer-den-weihnachtsbaum" rel="alternate"/>
+    <summary type="text">
+Bad Kreuznach. Die »Omas for Future« finden: Statt Lametta gehören in diesem Jahr gute Klimavorsätze an den Baum. 
+</summary>
+    <content type="html">&lt;p&gt;&lt;P&gt;&lt;STRONG&gt;Bad Kreuznach.&lt;/STRONG&gt; Die »Omas for Future« finden: Statt Lametta gehören in diesem Jahr gute Klimavorsätze an den Baum. &lt;/P&gt;&lt;/p&gt;&lt;p&gt;&lt;img alt="Marlene Berger, Carmen Eberhart und Dietgard Heine haben ihre guten Taten und Vorsätze für fürs neue Jahr schon mal aufgehängt." src="https://www.wochenspiegellive.de/fileadmin/user_upload/import/artikel/36/1436/561436_Klimabaender_statt_Lametta_1.jpg" /&gt;&lt;/p&gt;&lt;P&gt;Die Bad Kreuznacher Omas for Future werben dafür, in diesem Jahr die Weihnachtsbäume mit bunten Klimabändern zu schmücken. Die Idee: »Es geht um die Versprechen an die Zukunft. Mama, Papa, Oma, Opa und die Kinder, jeder schreibt was er für die Umwelt, also Klimaschutz und Arterhalt, schon tut, oder künftig tun wird auf bunte Bänder und hängt sie an den Weihnachtbaum«, erklärt Dietgard Heine, die ältestes der Omas. Liebgewonnene, klimaschädigende Gewohnheiten, von denen man üblicherweise nicht so leicht loskommt, können so im spielerischen Wettstreit innerhalb der Familie über Bord geworfen werden. Bänder zum Beschriften und Quizhefte mit Anregungen zu klimafreundlichem Verhalten stellen Omas for Future kostenlos in Bad Kreuznach im NAHeRAUM, Mannheimer Str. 82, im Weltladen Bad Kreuznach, Mannheimer Str. 90 und im Unverpackt-Laden, Zimmergasse 4 zur Verfügung. Natürlich kann sich jeder aus alten Stoffresten auch selbst Streifen von etwa 4 Zentimetern Breite und 80 Zentimetern Länge schneiden oder reißen. Zum Beschriften eignen sich am besten Filzstifte. Mehr Info: www.omasforfuture.de&lt;/P&gt;</content>
+    <category label="Allgemein" term="allgemein"/>
+    <category label="Nachrichten" term="nachrichten"/>
+  </entry>
+</feed>

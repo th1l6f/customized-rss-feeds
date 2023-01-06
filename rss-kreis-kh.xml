@@ -3,14 +3,12 @@
 <title>Kreis Bad Kreuznach</title>
 <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
 	<entry>
-		<title>Fahrplananpassungen RNN</title>
-		<id>/neuigkeiten/</id>
-		<link rel="alternate" href="https://www.kreis-badkreuznach.de/neuigkeiten/"/>
+		<title>Probleme mit dem DB-Navigator</title>
 		<content>
-Fahrplananpassungen RNN
-Zum 3.1.2023 wird der Rhein-Nahe Nahverkehrsverbund (RNN) bei einzelnen Linien der KRN Fahrplananpassungen vornehmen. Im Landkreis Bad Kreuznach steht dabei die Erreichbarkeit weiterführender Schulen im Fokus...
+Probleme mit dem DB-Navigator
+Aus technischen Gründen sind aktuell viele Fahrplanauskünfte über die Region hinaus im DB-Navigator fehlerhaft. Hierdurch kommt es immer wieder zu falschen Darstellungen von Anbindungen unter anderem auch im Verkehrsgebiet der KRN. Die KRN wurde durch Kundenbeschwerden auf diese Problemstellung aufmerksam. Demnach werden teilweise Fahrten früherer oder zukünftiger Fahrpläne darin angezeigt werden. Da das Problem auf den DB-Navigator begrenzt ist bietet die Fahrplanauskunft des RNN die gute Alternative, die korrekten Fahrplanauskünfte zu erhalten.
+Wie lange die Fehlerbehebung im DB-Navigator andauern wird, ist nicht bekannt.
 
-Mehr erfahren
 </content>
 	</entry>
 	<entry>

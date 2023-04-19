@@ -3,7 +3,7 @@
   <channel>
     <title>BYC-News Online-Zeitung</title>
     <atom:link href="https://byc-news.de/feed/" rel="self" type="application/rss+xml"/>
-    <link>https://byc-news.de/home/</link>
+    <link>https://byc-news.de/</link>
     <description/>
     <language>de-DE</language>
     <sy:updatePeriod>
@@ -14,7 +14,7 @@
     <image>
       <url>https://byc-news.de/wp-content/uploads/2019/06/cropped-boost-your-city-32x32.png</url>
       <title>BYC-News Online-Zeitung</title>
-      <link>https://byc-news.de/home/</link>
+      <link>https://byc-news.de/</link>
       <width>32</width>
       <height>32</height>
     </image>

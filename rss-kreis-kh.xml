@@ -3,6 +3,17 @@
 <title>Kreis Bad Kreuznach</title>
 <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
 	<entry>
+		<title>Infos zur Heizkostenhilfe</title>
+		<id>https://heizkostenhilfe.rlp.de/</id>
+		<link rel="alternate" href="https://heizkostenhilfe.rlp.de/"/>
+		<content>
+Infos zur Heizkostenhilfe
+Zwischenzeitlich ist es möglich, Anträge für die Heizkostenhilfe zu stellen. Dieses Unterstützungsangebot des Bundes ist für Haushalte zugänglich, die zum Beispiel Öl, Flüssiggas oder Holzpellets für die Beheizung der Wohnräume im vergangenen Jahr beschafft haben.
+Auf der vom Landesamt für Soziales, Jugend und Versorgung freigeschalteten Homepage https://heizkostenhilfe.rlp.de/ ist eine Vorabprüfung, ob eine Antragsberechtigung vorliegt sowie die Antragstellung möglich. Daneben sind hier auch allgemeine Hinweise zur Heizkostenbeihilfe zu finden. Rückfragen sind zudem über die Hotline (0800) 5758100 möglich.
+
+</content>
+	</entry>
+	<entry>
 		<title>Infos zum Deutschlandticket</title>
 		<id>/neuigkeiten/</id>
 		<link rel="alternate" href="https://www.kreis-badkreuznach.de/neuigkeiten/"/>
@@ -26,17 +37,6 @@ Wasser - Elixier unserer Gesundheit
 „Alles ist im Wandel“, damit dieser Wandel sich nicht noch mehr negativ auf unser Leben auswirkt, müssen wir unseren Teil dazu beisteuern. Die Gartenbauingenieurin Heike Boomgaarden wird bei ihrem Vortrag zum Thema Wasser – Lebenselixier unserer Gesundheit Lösungsmöglichkeiten aufzeigen, um die Welt in der wir leben ein wenig besser zu machen - für uns, unsere Kinder und unsere Enkelkinder.
 
 Mehr erfahren
-</content>
-	</entry>
-	<entry>
-		<title>BAFÖG-Stelle krankheitsbedingt geschlossen</title>
-		<content>
-BAFÖG-Stelle krankheitsbedingt geschlossen
-Krankheitsbedingt ist die BAFÖG-Stelle der Kreisverwaltung aktuell geschlossen. Zur Klärung von dringenden oder grundsätzlichen Fragen verweist die Kreisverwaltung daher an folgende Hotline:
-Aufstiegs-BAföG : 0800 / 6223634;
-Schüler-BAföG: 0800 / 2236341.
-Weiterhin möglich ist die Antragsaus- und Abgabe in der Kreisverwaltung. Während der krankheitsbedingten Schließung der BAFÖG-Stelle können diese vertretungsweise bei der Wohngeldstelle im gleichen Gebäude abgeholt bzw. abgegeben werden.
-Voraussichtlich ab dem 2. Mai ist die BAFÖG-Stelle wieder geöffnet. Wir bitten um Verständnis.
 </content>
 	</entry>
 	<entry>

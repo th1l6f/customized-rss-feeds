@@ -3,6 +3,17 @@
 <title>Kreis Bad Kreuznach</title>
 <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
 	<entry>
+		<title>Anmeldestart zur 1. soogesund-"Dorf-Rallye"</title>
+		<id>/neuigkeiten/</id>
+		<link rel="alternate" href="https://www.kreis-badkreuznach.de/neuigkeiten/"/>
+		<content>
+Anmeldestart zur 1. soogesund-"Dorf-Rallye"
+Das Gesundheitsmanagement der Kreisverwaltung präsentiert gemeinsam mit Meine Stadt Bad Kreuznach am 8. und 9. Juli 2023 die 1. soogesund-„Dorf Rallye“. An beiden Tagen werden sich hierfür der Kornmarkt, der Mühlenteich sowie ein Teil der Roßstraße in Bad Kreuznach unter dem Motto „Mein Dorf bewegt sich“ in eine große Wettkampf Arena mit Infomeile verwandeln. Ziel der soogesund-„Dorf-Rallye“ ist die Verknüpfung vom Spaß an der Bewegung mit der Stärkung der Dorfgemeinschaft und dem Thema Gesundheitsförderung. 
+
+Mehr erfahren
+</content>
+	</entry>
+	<entry>
 		<title>Infos zur Heizkostenhilfe</title>
 		<id>https://heizkostenhilfe.rlp.de/</id>
 		<link rel="alternate" href="https://heizkostenhilfe.rlp.de/"/>
@@ -76,17 +87,6 @@ Mehr erfahren
 		<content>
 Infoveranstaltung zum Thema Kleinwindkraftanlagen
 Können Kleinwindkraftanlagen ein Baustein zur eigenen Energiewende sein? Dieser Frage widmete sich eine Infoveranstaltung in der Kreisverwaltung. Interessante Einblicke und Erkenntnisse brachte die Veranstaltung den rund 130 Teilnehmenden.
-
-Mehr erfahren
-</content>
-	</entry>
-	<entry>
-		<title>Anmeldestart zur 1. soogesund-"Dorf-Rallye"</title>
-		<id>/neuigkeiten/</id>
-		<link rel="alternate" href="https://www.kreis-badkreuznach.de/neuigkeiten/"/>
-		<content>
-Anmeldestart zur 1. soogesund-"Dorf-Rallye"
-Das Gesundheitsmanagement der Kreisverwaltung präsentiert gemeinsam mit Meine Stadt Bad Kreuznach am 8. und 9. Juli 2023 die 1. soogesund-„Dorf Rallye“. An beiden Tagen werden sich hierfür der Kornmarkt, der Mühlenteich sowie ein Teil der Roßstraße in Bad Kreuznach unter dem Motto „Mein Dorf bewegt sich“ in eine große Wettkampf Arena mit Infomeile verwandeln. Ziel der soogesund-„Dorf-Rallye“ ist die Verknüpfung vom Spaß an der Bewegung mit der Stärkung der Dorfgemeinschaft und dem Thema Gesundheitsförderung. 
 
 Mehr erfahren
 </content>

@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Neuste Artikel von Wochenspiegel</title>
-  <generator version="1.8093.7.7851">JJK Verlagsportal</generator>
+  <generator version="1.8093.12.7851">JJK Verlagsportal</generator>
   <id>https://www.wochenspiegellive.de/fileadmin/feeds/artikel.atom</id>
   <link rel="self" href="https://www.wochenspiegellive.de/fileadmin/feeds/artikel.atom"/>
   <link href="https://www.wochenspiegellive.de" rel="alternate"/>

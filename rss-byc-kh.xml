@@ -37,7 +37,7 @@ Page Caching using disk
 Content Delivery Network via N/A
 Lazy Loading (feed)
 Minified using disk
-Database Caching 5/83 queries in 0.253 seconds using disk
+Database Caching using disk (Request-wide modification query)
 
-Served from: byc-news.de @ 2023-07-19 20:38:36 by W3 Total Cache
+Served from: byc-news.de @ 2023-07-20 00:38:11 by W3 Total Cache
 -->

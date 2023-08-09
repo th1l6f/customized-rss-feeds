@@ -10,7 +10,7 @@
 	hourly	</sy:updatePeriod>
     <sy:updateFrequency>
 	1	</sy:updateFrequency>
-    <generator>https://wordpress.org/?v=6.2.2</generator>
+    <generator>https://wordpress.org/?v=6.3</generator>
     <image>
       <url>https://byc-news.de/wp-content/uploads/2019/06/cropped-boost-your-city-32x32.png</url>
       <title>BYC-News Online-Zeitung</title>
@@ -29,17 +29,6 @@
 &lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/bad-kreuznach/audi-ueberschlaegt-sich-auf-der-l108-im-kreis-bad-kreuznach/"&gt;Audi überschlägt sich auf der L108 im Kreis Bad Kreuznach&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
 </description>
     </item>
-    <item>
-      <title>Unfall mit mehreren Fahrzeugen in Bad Kreuznach</title>
-      <link>https://byc-news.de/bad-kreuznach/unfall-mit-mehreren-fahrzeugen-in-bad-kreuznach/</link>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Mon, 31 Jul 2023 23:28:39 +0000</pubDate>
-      <category>Bad Kreuznach</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=129200</guid>
-      <description>&lt;p&gt;Am Montag (31.07.2023) ereignete sich gegen 17:30 Uhr in der Wilhelmstraße in Bad Kreuznach ein Verkehrsunfall mit fünf beteiligten Fahrzeugen. Die Unfallverursacherin übersah während eines Abbiegevorgangs ein entgegenkommendes Fahrzeug und kollidierte mit diesem. Dadurch wurde das entgegenkommende Fahrzeug auf drei weitere Fahrzeuge geschoben, die an der Ampelanlage zur Salinenstraße warteten. Der Verkehrsunfall führte zu leichten [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/bad-kreuznach/unfall-mit-mehreren-fahrzeugen-in-bad-kreuznach/"&gt;Unfall mit mehreren Fahrzeugen in Bad Kreuznach&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
   </channel>
 </rss><!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
@@ -48,7 +37,7 @@ Page Caching using disk
 Content Delivery Network via N/A
 Lazy Loading (feed)
 Minified using disk
-Database Caching 22/67 queries in 0.022 seconds using disk
+Database Caching 56/64 queries in 0.009 seconds using disk
 
-Served from: byc-news.de @ 2023-08-09 08:11:31 by W3 Total Cache
+Served from: byc-news.de @ 2023-08-09 11:54:57 by W3 Total Cache
 -->

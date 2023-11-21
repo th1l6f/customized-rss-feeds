@@ -3,52 +3,30 @@
   <channel>
     <title>BYC-News Online-Zeitung</title>
     <atom:link href="https://byc-news.de/feed/" rel="self" type="application/rss+xml"/>
-    <link>https://byc-news.de/</link>
+    <link>https://byc-news.de</link>
     <description/>
     <language>de-DE</language>
     <sy:updatePeriod>
 	hourly	</sy:updatePeriod>
     <sy:updateFrequency>
 	1	</sy:updateFrequency>
-    <generator>https://wordpress.org/?v=6.3.1</generator>
+    <generator>https://wordpress.org/?v=6.4.1</generator>
     <image>
       <url>https://byc-news.de/wp-content/uploads/2019/06/cropped-boost-your-city-32x32.png</url>
       <title>BYC-News Online-Zeitung</title>
-      <link>https://byc-news.de/</link>
+      <link>https://byc-news.de</link>
       <width>32</width>
       <height>32</height>
     </image>
-    <item>
-      <title>Kinderkulturtag im Schlosspark Bad Kreuznach: Ein Tag voller Kunst, Kreativität und Musik</title>
-      <link>https://byc-news.de/bad-kreuznach/kinderkulturtag-im-schlosspark-bad-kreuznach-ein-tag-voller-kunst-kreativitaet-und-musik/</link>
-      <dc:creator>Meikel Dachs</dc:creator>
-      <pubDate>Mon, 28 Aug 2023 18:24:02 +0000</pubDate>
-      <category>Bad Kreuznach</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=130571</guid>
-      <description>&lt;p&gt;Am Sonntag, den 3. September, verwandelt sich der Schlosspark von Bad Kreuznach in eine interaktive Kunst- und Kulturplattform für Kinder. Der Kinderkulturtag lädt von 11 bis 16 Uhr dazu ein, gemeinsam zu malen, zu basteln, zu spielen und zu forschen. Nach der langen Pause aufgrund der Corona-Pandemie haben Vereine, Initiativen, Institutionen und Einzelpersonen ein vielfältiges [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/bad-kreuznach/kinderkulturtag-im-schlosspark-bad-kreuznach-ein-tag-voller-kunst-kreativitaet-und-musik/"&gt;Kinderkulturtag im Schlosspark Bad Kreuznach: Ein Tag voller Kunst, Kreativität und Musik&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
-    <item>
-      <title>Ausgesetzte Katzenbabys in Stromberg – Polizei sucht nach Zeugen</title>
-      <link>https://byc-news.de/bad-kreuznach/ausgesetzte-katzenbabys-in-stromberg-polizei-sucht-nach-zeugen/</link>
-      <dc:creator>Chiara Forg</dc:creator>
-      <pubDate>Sun, 27 Aug 2023 10:54:09 +0000</pubDate>
-      <category>Bad Kreuznach</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=130499</guid>
-      <description>&lt;p&gt;Am Sonntagvormittag (27. August 2023) wurden der Polizei Bad Kreuznach gegen 9:50 Uhr mehrere Katzenbabys auf dem Flowtrail-Parkplatz &amp;#8220;P3&amp;#8221; in Stromberg gemeldet. Die Polizei hat die Katzen in Obhut genommen, die Ermittlungen eingeleitet und sucht nun nach Zeugen. Umgehend machten sich die Einsatzkräfte auf den Weg zu den Katzenbabys Vor Ort konnten die drei, augenscheinlich [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a rel="nofollow" href="https://byc-news.de/bad-kreuznach/ausgesetzte-katzenbabys-in-stromberg-polizei-sucht-nach-zeugen/"&gt;Ausgesetzte Katzenbabys in Stromberg &amp;#8211; Polizei sucht nach Zeugen&lt;/a&gt; erschien zuerst auf &lt;a rel="nofollow" href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
   </channel>
 </rss><!--
 Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
 
-Page Caching using disk 
+Page Caching using Disk 
 Content Delivery Network via N/A
 Lazy Loading (feed)
-Minified using disk
-Database Caching 4/60 queries in 0.009 seconds using disk
+Minified using Disk
+Database Caching 48/60 queries in 0.010 seconds using Disk
 
-Served from: byc-news.de @ 2023-09-04 04:10:58 by W3 Total Cache
+Served from: byc-news.de @ 2023-11-21 15:23:01 by W3 Total Cache
 -->

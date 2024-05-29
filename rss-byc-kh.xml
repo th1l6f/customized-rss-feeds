@@ -19,13 +19,4 @@
       <height>32</height>
     </image>
   </channel>
-</rss><!--
-Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
-
-Object Caching 315/393 objects using Disk
-Page Caching using Disk: Enhanced (Page is feed) 
-Lazy Loading (feed)
-Database Caching 50/107 queries in 0.126 seconds using Disk
-
-Served from: byc-news.de @ 2024-05-29 12:54:06 by W3 Total Cache
--->
+</rss>

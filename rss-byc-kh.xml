@@ -4,7 +4,7 @@
     <title>BYC-News Online-Zeitung</title>
     <atom:link href="https://byc-news.de/feed/" rel="self" type="application/rss+xml"/>
     <link>https://byc-news.de/</link>
-    <description/>
+    <description>Nachrichten aus Deiner Region</description>
     <language>de-DE</language>
     <sy:updatePeriod>
 	hourly	</sy:updatePeriod>

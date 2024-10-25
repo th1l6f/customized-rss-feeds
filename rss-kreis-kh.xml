@@ -3,6 +3,17 @@
 <title>Kreis Bad Kreuznach</title>
 <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
 	<entry>
+		<title>Umfrage zur Fahrradfreundlichkeit der Kommunen</title>
+		<id>https://fahrradklima-test.adfc.de/</id>
+		<link rel="alternate" href="https://fahrradklima-test.adfc.de/"/>
+		<content>
+Umfrage zur Fahrradfreundlichkeit der Kommunen
+Der Fahrradklima-Test des ADFC (Allgemeiner Deutscher Fahrrad-Club) soll zeigen, wie zufrieden Radfahrende mit den Bedingungen vor Ort sind. Das ist eine gute Gelegenheit für alle, die gelegentlich oder regelmäßig im Alltag mit dem Fahrrad unterwegs sind,  die Fahrradfreundlichkeit in ihrem Umfeld zu bewerten. Wir würden uns über Ihre Teilnahme freuen! https://fahrradklima-test.adfc.de/  
+
+Mehr erfahren
+</content>
+	</entry>
+	<entry>
 		<title>300 getauschte Leuchtmittel am LED-Tauschtag</title>
 		<id>/neuigkeiten/</id>
 		<link rel="alternate" href="https://www.kreis-badkreuznach.de/neuigkeiten/"/>
@@ -43,17 +54,6 @@ Mehr erfahren
 		<content>
 Land fördert die Sanierung des Heimbergturms mit 31.200 Euro – Zuwendungsbescheid übergeben
 Im Rahmen der Naturparkförderung unterstützt das Land Rheinland-Pfalz die dringend erforderliche Sanierung des Heimbergturms in Schloßböckelheim mit einer Fördersumme in Höhe von 31.200 Euro. Den Zuwendungsbescheid hat Wolfgang Treis, Präsident der Struktur- und Genehmigungsdirektion (SGD) Nord, nun dem Trägerverein Naturpark Soonwald-Nahe e.V. vor Ort übergeben.
-
-Mehr erfahren
-</content>
-	</entry>
-	<entry>
-		<title>Zaubershow für Kinder</title>
-		<id>/neuigkeiten/</id>
-		<link rel="alternate" href="https://www.kreis-badkreuznach.de/neuigkeiten/"/>
-		<content>
-Zaubershow für Kinder
-Auf Initiative der Kreisjugendförderung Bad Kreuznach dürfen sich Kinder auf Zauberer Marcus Emrich mit seiner Show „Der zauberhafte Zirkus“ freuen. Gleich zwei kostenfreie Vorstellungen werden im Oktober angeboten.
 
 Mehr erfahren
 </content>

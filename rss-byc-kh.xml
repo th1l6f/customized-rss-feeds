@@ -5,7 +5,7 @@
     <atom:link href="https://byc-news.de/feed/" rel="self" type="application/rss+xml"/>
     <link>https://byc-news.de/</link>
     <description>Nachrichten aus Deiner Region</description>
-    <language>de-DE</language>
+    <language>de</language>
     <sy:updatePeriod>
 	hourly	</sy:updatePeriod>
     <sy:updateFrequency>

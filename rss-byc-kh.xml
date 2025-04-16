@@ -10,7 +10,7 @@
 	hourly	</sy:updatePeriod>
     <sy:updateFrequency>
 	1	</sy:updateFrequency>
-    <generator>https://wordpress.org/?v=6.7.2</generator>
+    <generator>https://wordpress.org/?v=6.8</generator>
     <image>
       <url>https://byc-news.de/wp-content/uploads/2024/10/cropped-BYC_Logo-News_rgb_neg_hoch_1024pxl-32x32.jpg</url>
       <title>BYC-News Online-Zeitung</title>
@@ -18,16 +18,5 @@
       <width>32</width>
       <height>32</height>
     </image>
-    <item>
-      <title>Fit im Kopf – Gedächtnistraining im Stadtteilbüro Rheinböllen</title>
-      <link>https://byc-news.de/bad-kreuznach/fit-im-kopf-gedaechtnistraining-im-stadtteilbuero-rheinboellen/</link>
-      <dc:creator>Redaktion</dc:creator>
-      <pubDate>Wed, 09 Apr 2025 16:52:45 +0000</pubDate>
-      <category>Bad Kreuznach</category>
-      <guid isPermaLink="false">https://byc-news.de/?p=209805</guid>
-      <description>&lt;p&gt;Stadtteilbüro Rheinböllen: Wer geistig aktiv bleiben und dabei in geselliger Runde den Kopf auf Trab bringen möchte, ist beim Gedächtnistraining „Fit im Kopf“ genau richtig. Das kostenfreie Angebot der Stadtteilkoordination Rheinböllen lädt alle Interessierten herzlich ein, sich spielerisch mit ihrer mentalen Fitness zu beschäftigen. Unter der Leitung von Christel Meng findet das Training jeden letzten [&amp;#8230;]&lt;/p&gt;
-&lt;p&gt;Der Beitrag &lt;a href="https://byc-news.de/bad-kreuznach/fit-im-kopf-gedaechtnistraining-im-stadtteilbuero-rheinboellen/"&gt;Fit im Kopf – Gedächtnistraining im Stadtteilbüro Rheinböllen&lt;/a&gt; erschien zuerst auf &lt;a href="https://byc-news.de"&gt;BYC-News Online-Zeitung&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
   </channel>
 </rss>

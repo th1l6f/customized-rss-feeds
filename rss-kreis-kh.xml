@@ -3,6 +3,17 @@
 <title>Kreis Bad Kreuznach</title>
 <id>urn:uuid:60a76c80-d399-11d9-b93C-0003939e0af6</id>
 	<entry>
+		<title>Waldbrand Traisen</title>
+		<id>/neuigkeiten/</id>
+		<link rel="alternate" href="https://www.kreis-badkreuznach.de/neuigkeiten/"/>
+		<content>
+Waldbrand Traisen
+Alle herausgegebenen Presse-infos finden Sie hier.
+
+Mehr erfahren
+</content>
+	</entry>
+	<entry>
 		<title>AWB: Frühere Müllabfuhr auch in den Sommerferien</title>
 		<id>/neuigkeiten/</id>
 		<link rel="alternate" href="https://www.kreis-badkreuznach.de/neuigkeiten/"/>
